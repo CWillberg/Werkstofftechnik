@@ -18,14 +18,13 @@
 
 
 ## Formeln
-Dehungen $\varepsilon=\frac{\Delta l}{l}$\
-Dehnungen (allgemein) $\boldsymbol{\varepsilon}=0.5(\text{grad}(\mathbf{u})^T\text{grad}(\mathbf{u})-\mathbf{I})$\
-Mechanische Spannung (1D): $\sigma = \frac{F}{A} = E\varepsilon$\
-Schubspanngen $\tau = G\gamma$\
-Mechanische Spannung (allgemein): $\boldsymbol{\sigma} = \mathbf{C}\mathbf{\varepsilon}$ \
-Steifigkeit $c = \frac{EA}{l}$\
-Torsionssteifigkeit $c_T=\frac{GI_P}{l}$\
-Biegesteifigkeit $c_B=\frac{EI}{l}$
-
-
-
+| Parameter|Name |
+|---|---|
+| Dehungen| $\varepsilon=\frac{\Delta l}{l}$ |
+|Dehnungen (allgemein)| $\boldsymbol{\varepsilon}=0.5\left(\text{grad}(\mathbf{u})^T\text{grad}(\mathbf{u})-\mathbf{I}\right)$|
+|Mechanische Spannung (1D) | $\sigma = \frac{F}{A} = E\varepsilon$ |
+|Schubspanngen | $\tau = G\gamma$ |
+|Mechanische Spannung (allgemein) | $\boldsymbol{\sigma} = \mathbf{C}\mathbf{\varepsilon} $ |
+|Steifigkeit | $c = \frac{EA}{l}$\|
+|Torsionssteifigkeit | $c_T=\frac{GI_P}{l}$\|
+|Biegesteifigkeit | $c_B=\frac{EI}{l}$|
