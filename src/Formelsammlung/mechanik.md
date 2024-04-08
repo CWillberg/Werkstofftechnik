@@ -19,7 +19,10 @@
 
 ## Formeln
 Dehungen $\varepsilon=\frac{\Delta l}{l}$\
+Dehnungen (allgemein) $\boldsymbol{\varepsilon}=0.5(\text{grad}(\mathbf{u})^T\text{grad}(\mathbf{u})-\mathbf{I})$\
 Mechanische Spannung (1D): $\sigma = \frac{F}{A} = E\varepsilon$\
+Schubspanngen $\tau = G\gamma$\
 Mechanische Spannung (allgemein): $\boldsymbol{\sigma} = \mathbf{C}\mathbf{\varepsilon}$ \
-dsa
+
+
 

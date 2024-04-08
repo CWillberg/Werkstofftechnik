@@ -1,16 +1,16 @@
-using Documenter, PeriLab, DocumenterCitations
+using Documenter, DocumenterCitations
 
 bib = CitationBibliography(joinpath(@__DIR__, "src", "ref.bib"))
 
 makedocs(
     plugins=[bib],
-    modules=[PeriLab],
     authors="Christian Willberg <christian.h2.de>,
     doctest=true,
     checkdocs=:none, # :all, :exports, :none
-    sitename="PeriLab",
-    format=Documenter.HTML(
-        canonical="https://gitlab.com/lectures1000308/material-science/zusatzinformationen",
+    sitename="Vorlesung-Werkstofftechnik",
+    repo=Documenter.Remotes.GitHub("CWillberg", "Werkstofftechnik"), format=Documenter.HTML(
+        canonical="https://github.com/CWillberg/Werkstofftechnik.git",
+        assets=["assets/favicon.ico"],
         edit_link="main"
     ),
     pages=Any[
@@ -25,5 +25,5 @@ makedocs(
     ]
 )
 deploydocs(
-    repo="https://gitlab.com/lectures1000308/material-science/zusatzinformationen.git",
+    repo="https://github.com/CWillberg/Werkstofftechnik.git",
 )
