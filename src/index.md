@@ -23,7 +23,7 @@ Zudem verändern sich die Eigenschaften deutlich. Es kommt in aller Regel zu Mis
 [Thermodynamik](Formelsammlung/thermodynamik.md)
 
 ## Notationen
-Stahl
+Stahl 
 ...
 
 ## Normen
