@@ -15,6 +15,14 @@ makedocs(
     ),
     pages=Any[
         "Einleitung"=>"index.md",
+        "Skript"=>Any[
+            "Übersicht"=>"Skript/skript.md"
+            "Struktur von Werkstoffen"=>Any[
+                "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
+                "Atome und Gitter"=>"Skript/svw/aug.md",
+                "Bindungsarten"=>"Skript/svw/bindungsarten.md",
+                "Fehlstellen"=>"Skript/svw/fehlstellen.md",
+                "Kristalle"=>"Skript/svw/kristalle.md"],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md"
             "Mechanisch"=>"Formelsammlung/mechanik.md",

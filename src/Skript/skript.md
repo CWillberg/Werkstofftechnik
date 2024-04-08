@@ -1,0 +1,24 @@
+# Skript
+- Struktur von Werkstoffen
+    - Atomgitter
+    - Bindungsarten
+    - Fehlstellen
+    - Kristalle
+- Phasendiagramme
+    - Eisen Kohlenstoff Diagramme
+    - Legierungen
+    - Wärmebehandlung
+- Werkstoffeigenschaften
+    - Überblick
+    - Mechanische Eigenschaften
+    - Thermische Eigenschaften
+    - Elektro-Magnetische Eigenschaften
+    - Sonstiges
+- Prüfung von Werkstoffen
+    - Charakterisierung von Werkstoffen
+    - Zerstörende Prüfung
+    - Zerstörungsfreie Prüfung
+    - Datenanalyse
+- Korrosion, Verschleiß, Ermüdung
+- Nachhaltigkeit
+
