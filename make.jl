@@ -4,10 +4,10 @@ bib = CitationBibliography(joinpath(@__DIR__, "src", "ref.bib"))
 
 makedocs(
     plugins=[bib],
-    authors="Christian Willberg <christian.h2.de>,
+    authors="Christian Willberg <christian.willberg@h2.de>",
     doctest=true,
     checkdocs=:none, # :all, :exports, :none
-    sitename="VorlesungWerkstofftechnik",
+    sitename="Vorlesung-Werkstofftechnik",
     repo=Documenter.Remotes.GitHub("CWillberg", "Werkstofftechnik"), format=Documenter.HTML(
         canonical="https://github.com/CWillberg/Werkstofftechnik.git",
         assets=["assets/favicon.ico"],
