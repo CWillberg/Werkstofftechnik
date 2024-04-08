@@ -7,7 +7,7 @@ makedocs(
     authors="Christian Willberg <christian.h2.de>,
     doctest=true,
     checkdocs=:none, # :all, :exports, :none
-    sitename="Vorlesung-Werkstofftechnik",
+    sitename="Vorlesung_Werkstofftechnik",
     repo=Documenter.Remotes.GitHub("CWillberg", "Werkstofftechnik"), format=Documenter.HTML(
         canonical="https://github.com/CWillberg/Werkstofftechnik.git",
         assets=["assets/favicon.ico"],
