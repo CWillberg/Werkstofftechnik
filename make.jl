@@ -24,7 +24,7 @@ makedocs(
                 "Fehlstellen"=>"Skript/svw/fehlstellen.md",
                 "Kristalle"=>"Skript/svw/kristalle.md"],
         "Formelsammlung"=>Any[
-            "Übersicht"=>"Formelsammlung/formelsammlung.md"
+            "Übersicht"=>"Formelsammlung/formelsammlung.md",
             "Mechanisch"=>"Formelsammlung/mechanik.md",
             "Thermodynamik"=>"Formelsammlung/thermodynamik.md",
             "Elektrisch"=>"Formelsammlung/elektrisch.md",
