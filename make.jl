@@ -14,15 +14,31 @@ makedocs(
         edit_link="main"
     ),
     pages=Any[
-        "Einleitung"=>"index.md",
+        "Übersicht"=>"index.md",
         "Skript"=>Any[
-            "Übersicht"=>"Skript/skript.md",
             "Struktur von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
                 "Atome und Gitter"=>"Skript/svw/aug.md",
                 "Bindungsarten"=>"Skript/svw/bindungsarten.md",
                 "Fehlstellen"=>"Skript/svw/fehlstellen.md",
                 "Kristalle"=>"Skript/svw/kristalle.md"],
+                "Struktur von Werkstoffen"=>Any[
+                "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
+                "Atome und Gitter"=>"Skript/svw/aug.md",
+                "Bindungsarten"=>"Skript/svw/bindungsarten.md",
+                "Fehlstellen"=>"Skript/svw/fehlstellen.md",
+                "Kristalle"=>"Skript/svw/kristalle.md"],
+                "Eigenschaften von Werkstoffen"=>Any[
+                    "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
+                    "Mechanische Eigenschaften"=>"Skript/Werkstoffeigenschaften/mechanik.md",
+                    "Thermische Eigenschaften"=>"Skript/Werkstoffeigenschaften/thermisch.md",
+                    "Elektro-Magnetische Eigenschaften"=>"Skript/Werkstoffeigenschaften/elektrisch.md",
+                    "Sonstige Eigenschaften"=>"Skript/Werkstoffeigenschaften/sonstige.md"],
+                "Werksoffprüfung"=>Any[
+                        "Übersicht"=>"Skript/Werkstoffpruefung/pruefung.md",
+                        "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffeigenschaften/charakterisierung.md",
+                        "Zerstörende Prüfung"=>"Skript/Werkstoffeigenschaften/zp.md",
+                        "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffeigenschaften/zfp.md"],
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
