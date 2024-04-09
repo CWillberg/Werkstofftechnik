@@ -3,8 +3,8 @@
 - Struktur von Werkstoffen
     - Atomgitter
     - Bindungsarten
-    - Fehlstellen
     - Kristalle
+    - Gitterdefekte
 - Phasendiagramme
     - Eisen Kohlenstoff Diagramme
     - Legierungen
@@ -21,5 +21,9 @@
     - Zerstörungsfreie Prüfung
     - Datenanalyse
 - Korrosion, Verschleiß, Ermüdung
+- "Smart" Materials
+    - Piezokeramiken
+    - Formgedächtnislegierung
+    - 
 - Nachhaltigkeit
-
+- Datenanalyse

@@ -1,1 +1,5 @@
 # Kristalle
+
+## Kristallarten
+
+## Korngrenzen
