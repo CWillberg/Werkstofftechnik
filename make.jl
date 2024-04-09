@@ -23,6 +23,7 @@ makedocs(
                 "Bindungsarten"=>"Skript/svw/bindungsarten.md",
                 "Fehlstellen"=>"Skript/svw/fehlstellen.md",
                 "Kristalle"=>"Skript/svw/kristalle.md"],
+        ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
             "Mechanisch"=>"Formelsammlung/mechanik.md",
