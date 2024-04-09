@@ -16,7 +16,7 @@ makedocs(
     pages=Any[
         "Einleitung"=>"index.md",
         "Skript"=>Any[
-            "Übersicht"=>"Skript/skript.md"
+            "Übersicht"=>"Skript/skript.md",
             "Struktur von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
                 "Atome und Gitter"=>"Skript/svw/aug.md",

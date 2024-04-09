@@ -1,7 +1,5 @@
 ## Phasendiagamme
 
-TODO weiter ausführen
-
 Phasendiagramme stellen dar, wie sich die Mikrostruktur eines Werkstoffs oder Werkstoffgemischs verhält. Am Beispiel des Eisen-Kohlenstoffdiagramm läss sich dies verdeutlichen. Links sehen wir das Verhalten von reinem Eisen. Hier kann man erkennen, dass Eisen von der Schmelze (oberer Rand) bis zu Raumtemperatur mehrere Kristallzustände durchläuft. Diese sind für den jeweiligen Temperaturbereich energetisch günstig.
 
 | Name | Gitterstruktur |
@@ -15,3 +13,5 @@ Phasendiagramme stellen dar, wie sich die Mikrostruktur eines Werkstoffs oder We
 Durch Zugabe weiterer Elemente (hier dargestellt Kohlenstoff) ergeben sich neue Grenzen dieser Kristalle. Die energetisch günstigen Zustände verschieben sich.
 
 Zudem verändern sich die Eigenschaften deutlich. Es kommt in aller Regel zu Mischkritallen. Je nach Abkühlungsgeschwindigkeit und Zusammensetzung, können die Eigenschaften an spezifische Anforderungen angepasst werden [Wärmebehandlung](), [Legierungen]()
+
+Hier kommt noch mehr
