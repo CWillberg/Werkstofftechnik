@@ -4,8 +4,7 @@
 -	Eindimensionale Fehlstellen (Liniendefekte): Versetzungen
 -	Zweidimensionale Fehlstellen (Flächendefekte): Stapelfehler, Korngrenzen, Subkorn-grenzen, Phasengrenzen
 
-
-<img src="../../Figures/gitterdefekte.bmp" alt="Gitterbaudefekte" style="height:650px;width:auto;vertical-align: top;background-color:transparent;">
+![Gitterbaudefekte](../../Figures/gitterdefekte.bmp)
 
 Bild entnommen aus den Skript von Prof. Dr.-Ing. Häberle.
 
