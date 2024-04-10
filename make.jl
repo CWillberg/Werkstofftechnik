@@ -20,13 +20,7 @@ makedocs(
                 "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
                 "Atome und Gitter"=>"Skript/svw/aug.md",
                 "Bindungsarten"=>"Skript/svw/bindungsarten.md",
-                "Fehlstellen"=>"Skript/svw/fehlstellen.md",
-                "Kristalle"=>"Skript/svw/kristalle.md"],
-                "Struktur von Werkstoffen"=>Any[
-                "Übersicht"=>"Skript/svw/struktur_von_werkstoffen.md",
-                "Atome und Gitter"=>"Skript/svw/aug.md",
-                "Bindungsarten"=>"Skript/svw/bindungsarten.md",
-                "Fehlstellen"=>"Skript/svw/fehlstellen.md",
+                "Gitterbaudefekte"=>"Skript/svw/gitterbaudefekte.md",
                 "Kristalle"=>"Skript/svw/kristalle.md"],
                 "Eigenschaften von Werkstoffen"=>Any[
                     "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
@@ -36,9 +30,9 @@ makedocs(
                     "Sonstige Eigenschaften"=>"Skript/Werkstoffeigenschaften/sonstige.md"],
                 "Werksoffprüfung"=>Any[
                         "Übersicht"=>"Skript/Werkstoffpruefung/pruefung.md",
-                        "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffeigenschaften/charakterisierung.md",
-                        "Zerstörende Prüfung"=>"Skript/Werkstoffeigenschaften/zp.md",
-                        "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffeigenschaften/zfp.md"],
+                        "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffpruefung/charakterisierung.md",
+                        "Zerstörende Prüfung"=>"Skript/Werkstoffpruefung/zp.md",
+                        "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"],
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
