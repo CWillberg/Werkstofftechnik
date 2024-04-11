@@ -6,7 +6,7 @@
 
 [**Wärmeübergang**](@ref "Wärmeübergang") beschreibt wie die Wärme von einem Werkstoff oder Material in ein Fluid übergehen kann.
 
-[**Wärmekapazität**](@ref "Wärmekapazität") Die Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
+[**Spezifische Wärmekapazität**](@ref "Spezifische Wärmekapazität") Die spezifische Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
 
 [**Wärmestrahlung**](@ref "Wärmestrahlung")
 
@@ -81,12 +81,19 @@ ist die Matrix der Wärmeleitfähigkeit.
 | transversale Isotropie  | $\lambda_{22}=\lambda_{33}$ | Einzellage Faserverbund |
 | Anisotropie | beliebige $\lambda_{ij}$ | Mehrlagen Faserverbund |
 
-
-
-
 ## Wärmeübergang
 
-Wichtig, wenn Maschinen gekühlt oder erwärmt werden sollen. 
+Übertragung der Wärme von einem Festkörper in ein Fluid oder Gas. 
+
+>Wichtig, wenn Maschinen gekühlt oder erwärmt werden sollen. 
+
+Wird durch den Wärmeübergangskoeffizient beschrieben. Er hängt unter anderem  von der spezifischen Wärmekapazität, der Dichte und dem Wärmeleitkoeffizienten des wärmeabführenden sowie des wärmeliefernden Mediums ab.
+
+$\dot{q}=\alpha_{Übergang}A\Delta T$
+
+## Spezifische Wärmekapazität
+
+$C_p=\frac{\Delta q}{m \Delta T}$
 
 ## Wärmestrahlung
 Emissiongrad
@@ -96,7 +103,7 @@ Emissiongrad
 # Spezielle Temperaturen
 
 ## Phasenübergangstemperatur
-Temperatur wo ein Phasenübergang in einer Kristallstruktur stattfindet (siehe [Phasendiagramme](@ref "Phasendiagamme"))
+Temperatur wo ein Phasenübergang in einer Kristallstruktur stattfindet (siehe [Phasendiagramme](@ref "Phasendiagamme")). Wird maßgeblich durch beigesetzte Stoffe beeinflusst (siehe [Legierungen](@ "Legierungen"))
 
 ## Schmelztemperatur
 Als Schmelztemperatur bezeichnet man die Temperatur, bei der ein Stoff vom festen in den flüssigen Aggregatzustand übergeht. 
