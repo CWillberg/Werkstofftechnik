@@ -21,7 +21,8 @@ makedocs(
                 "Atome und Gitter"=>"Skript/svw/aug.md",
                 "Bindungsarten"=>"Skript/svw/bindungsarten.md",
                 "Gitterbaudefekte"=>"Skript/svw/gitterbaudefekte.md",
-                "Kristalle"=>"Skript/svw/kristalle.md"],
+                "Kristalle"=>"Skript/svw/kristalle.md",
+                "Plastizität"=>"Skript/svw/Plastizität.md"],
             "Phasendiagramme"=>Any[
                     "Übersicht"=>"Skript/Phasendiagramme/phasendiagramme.md",
                     "Eisen-Kohlenstoff Diagramm"=>"Skript/Phasendiagramme/EisenKohlenstoff.md",
