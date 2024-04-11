@@ -1,12 +1,12 @@
 # Mechanische Eigenschaften
 
-[**Materialmodelle**](@ref "Materialmodelle") beschreibt die Kopplung zwischen Temperatur und Verformung von Materialien und Werkstoffen.
+[**Materialmodelle**](@ref "Materialmodelle") 
 
-[**Festigkeit**](@ref "Festigkeit") beschreibt die Ausbreitung von Wärme und wie schnell sich die Temperatur eines Materials oder Werkstoffs ändert.
+[**Festigkeit und Streckgrenze**](@ref "Festigkeit und Streckgrenze") 
 
-[**Steifigkeit**](@ref "Steifigkeit") beschreibt wie die Wärme von einem Werkstoff oder Material in ein Fluid übergehen kann.
+[**Steifigkeit**](@ref "Steifigkeit") 
 
-[**Viskosität**](@ref "Spezifische Wärmekapazität") Die spezifische Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
+[**Viskosität**](@ref "Spezifische Wärmekapazität") 
 
 ---
 
@@ -76,3 +76,46 @@ Die Querkontrationszahl ist definiert als
 $$\nu_{ij}=-\frac{\varepsilon_i}{\varepsilon_j}$$
 
 und liegt für ein homogenes Material im Bereich $0\leq\nu\leq0.5$.
+
+## Festigkeit und Streckgrenze
+Um ein Bauteil auslegen zu können benötigt man Kennwerte die Vorhersagen wann Versagen eintritt. Hierzu dient die Streckgrenze und die Festigkeit.
+
+Die **Streckgrenze** definiert dabei wann ein Material seine plastische Verformung beginnt. Da dieser Zeitpunkt oft nicht klar identifizierbar ist, wird die Dehngrenze oder Elastizitätsgrenze verwendet. Hierzu wird während des Tests das Material belastet und entlastet. Weißt die Probe eine plastische Dehnung von 0.2% auf, wird die zugehörige Spannung (Dehngrenze oder Elastizitätsgrenze) als äquivalente Streckgrenze verwendet.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/64/Spgs-Dehnungs-Kurve_Dehngrenze.svg)
+
+- Zugfestigkeit $R_m$   
+- Streckgrenze $R_e$   
+- Dehngrenze oder Elastizitätsgrenze $R_{p0,2}$
+  - Belastung und dann Entlastung 0.2% Dehung verbleibt
+- Dehngrenze wird als Ersatzstreckgrenze verwendet
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6e/Spgs-Dehnungs-Kurve_Streckgrenze.svg)
+
+- obere Streckgrenze $R_{eH}$
+- untere Streckgrenze $R_{eL}$
+
+!!! info "gezackter Bereich: Lüdersbereich" 
+    Für einen ausgeprägten elasto-plastischen Bereich (Lüdersbereich) gibt es eine obere und untere Streckgrenze. Im Lüdersbereich kommt es zu plastischen Verformungen ohne Lastzunahme.
+
+[Beispielvideo](https://youtu.be/E80yUNniESU?si=pqGRAWamxFQedWqw&t=95)
+
+Die **Festigkeit** ist die Spannung bei der das totale Versagen des Material auftritt. Wird in Kombination mit Sicherheitsbeiwerten für die Auslegung bestimmter Strukturbereiche verwendet und ist daher von hoher Relevanz. 
+
+## Steifigkeit
+Die Steifigkeit beschreibt das Verhältnis der äußeren Belastung zur absoluten Verformung einer Struktur. Die Steifigkeit ist nur teilweise abhängig vom Material. Es spiele ganz wesentlich geometrische Größen eine Rolle, bspw.:
+
+$$c_{Zugsteifigkeit}=EA$$
+
+$$c_{Biegesteifigkeit}=EI$$
+
+$$c_{Torsionssteifigkeit}=GJ$$
+
+!!! warning "Steifigkeitsversagen $\neq$ Festigkeitsversagen"
+    Festigkeitsversagen bedeutet, dass ein Bruch entsteht. Steifigkeitsversagen bedeutet beispielsweise, dass es aufgrund einer zu großen Deformationen zu einem Turmschlag bei einer Windenergieanlage kommt.
+
+Die Steifigkeit ist eine modale Größe. Sie beeinflusst maßgeblich das Schwingungsverhalten eines Bauteils. Für den eindimensionalen Fall ergibt sich für die erste Eigenfrequenz.
+
+$$f=\frac{1}{2\pi}\sqrt\frac{c}{m}$$
+
+In $c$ sind beispielsweise Elastizitätsmoduln und in der Masse $m$ die Dichte $\rho$ als Materialkennwerte enthalten.
