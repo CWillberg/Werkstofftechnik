@@ -22,11 +22,11 @@ makedocs(
                 "Bindungsarten"=>"Skript/svw/bindungsarten.md",
                 "Gitterbaudefekte"=>"Skript/svw/gitterbaudefekte.md",
                 "Kristalle"=>"Skript/svw/kristalle.md",
-                "Plastizität"=>"Skript/svw/Plastizität.md"],
+                "Plastizität"=>"Skript/svw/plastizität.md"],
             "Phasendiagramme"=>Any[
                     "Übersicht"=>"Skript/Phasendiagramme/phasendiagramme.md",
-                    "Eisen-Kohlenstoff Diagramm"=>"Skript/Phasendiagramme/EisenKohlenstoff.md",
-                    "Legierungen"=>"Skript/Phasendiagramme/Legierungen.md",
+                    "Eisen-Kohlenstoff Diagramm"=>"Skript/Phasendiagramme/eisenKohlenstoff.md",
+                    "Legierungen"=>"Skript/Phasendiagramme/legierungen.md",
                     "Wärmebehandlung"=>"Skript/Phasendiagramme/waermebehandlung.md"],
             "Eigenschaften von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
