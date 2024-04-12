@@ -17,6 +17,6 @@ Phasendiagramme stellen dar, wie sich die Mikrostruktur eines Werkstoffs oder We
 
 Durch Zugabe weiterer Elemente (hier dargestellt Kohlenstoff) ergeben sich neue Grenzen dieser Kristalle. Die energetisch günstigen Zustände verschieben sich.
 
-Zudem verändern sich die Eigenschaften deutlich. Es kommt in aller Regel zu Mischkritallen. Je nach Abkühlungsgeschwindigkeit und Zusammensetzung, können die Eigenschaften an spezifische Anforderungen angepasst werden [Wärmebehandlung](@ref "Wärmebehandlung"), [Legierungen](@ref "Legierungen")
+Zudem verändern sich die Eigenschaften deutlich. Es kommt in aller Regel zu Mischkritallen. Je nach Abkühlungsgeschwindigkeit und Zusammensetzung, können die Eigenschaften an spezifische Anforderungen angepasst werden 
 
 Hier kommt noch mehr!
