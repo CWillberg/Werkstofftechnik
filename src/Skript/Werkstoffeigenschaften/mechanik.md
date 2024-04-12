@@ -119,3 +119,5 @@ Die Steifigkeit ist eine modale Größe. Sie beeinflusst maßgeblich das Schwing
 $$f=\frac{1}{2\pi}\sqrt\frac{c}{m}$$
 
 In $c$ sind beispielsweise Elastizitätsmoduln und in der Masse $m$ die Dichte $\rho$ als Materialkennwerte enthalten.
+
+## Schallgeschwindigkeit
