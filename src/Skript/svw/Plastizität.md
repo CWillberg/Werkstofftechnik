@@ -23,7 +23,7 @@ Die plastische Verformung eines Kristalls vollzieht sich  im Wesentlichen durch 
 
 Das Bild zeigt wie sich die Versetzungzone durch den Kristall bewegt.
 
-![](./Figures/Beispiel_plast.bmp)
+![](../../Figures/Beispiel_plast.bmp)
   
 ## Plastische Verformung des polykristallinen Werkstoffs
 
