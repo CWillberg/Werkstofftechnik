@@ -13,4 +13,4 @@ Durch Zugabe weiterer Elemente (hier dargestellt Kohlenstoff) ergeben sich neue 
 
 Zudem verändern sich die Eigenschaften deutlich. Es kommt in aller Regel zu Mischkritallen. Je nach Abkühlungsgeschwindigkeit und Zusammensetzung, können die Eigenschaften an spezifische Anforderungen angepasst werden [Wärmebehandlung](@ref "Wärmebehandlung"), [Legierungen](@ref "Legierungen")
 
-Hier kommt noch mehr
+Hier kommt noch mehr!
