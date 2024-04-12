@@ -121,3 +121,7 @@ $$f=\frac{1}{2\pi}\sqrt\frac{c}{m}$$
 In $c$ sind beispielsweise Elastizitätsmoduln und in der Masse $m$ die Dichte $\rho$ als Materialkennwerte enthalten.
 
 ## Schallgeschwindigkeit
+In Festkörpern kann die Schallgeschwindigkeit in longitudinal und transversal unterteilt werden 
+
+$$c_{l} = \sqrt\frac{E(1-\nu)}{\rho(1-\nu-\nu^2)}$$
+$$c_{T} = \sqrt\frac{G}{\rho}$$
