@@ -2,7 +2,7 @@
 
 ## Einheitszelle
 
-![](../../Figures/Einheitszelle.png)
+![](../../Figures/einheitszelle.png)
 
 | Kristallsystem   | Gitterkonstanten | Achswinkel | Beispiele |
 |---|---|---|---|
