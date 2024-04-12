@@ -25,7 +25,7 @@ makedocs(
                 "Plastizität"=>"Skript/svw/plastizitaet.md"],
             "Phasendiagramme"=>Any[
                     "Übersicht"=>"Skript/Phasendiagramme/phasendiagramme.md",
-                    "Legierungen"=>"Skript/Phasendiagramme/Legierungen.md",
+                    "Legierungen"=>"Skript/Phasendiagramme/legierungen.md",
                     "Wärmebehandlung"=>"Skript/Phasendiagramme/waermebehandlung.md"],
             "Eigenschaften von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
