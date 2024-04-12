@@ -1,4 +1,4 @@
-# Plastizität
+# Plastizitaet
 Beschreibt die Fähigkeit von Feststoffen, sich unter einer Krafteinwirkung nach Überschreiten einer Elastizitätsgrenze irreversibel zu verformen bzw. umzuformen (zu fließen) und diese Form nach der Einwirkung beizubehalten. Wichtige Kenngrößen sind die [Streckgrenze](@ref "Festigkeit und Streckgrenze").
 
 **Hohe Plastizität**
