@@ -35,8 +35,7 @@ $\boldsymbol{\alpha} =
 \alpha_{11} & \alpha_{12} & \alpha_{13} \\
 \alpha_{12} & \alpha_{22} & \alpha_{23} \\
 \alpha_{13} & \alpha_{23} & \alpha_{33}
-\end{bmatrix}
-$
+\end{bmatrix}$
 
 | Symmetrie | Modell | Beispiele |
 |---|---|---|
@@ -82,12 +81,14 @@ Auch Konduktion und Wärmediffusion. Die Richtung ist immer von hohen Temperatur
 
 $\dot{\mathbf{q}}=-\boldsymbol{\lambda}\text{grad}(T)$
 
-- $\text{grad}(T)$ ist der Gradient der Temperaturänderung $\frac{\partial T}{\partial dx_i}$; im linearisierten Fall und für kleine Abstände $\Delta T / d$
-- $\boldsymbol{\lambda}=\begin{bmatrix}
+$\text{grad}(T)$ ist der Gradient der Temperaturänderung $\frac{\partial T}{\partial dx_i}$; im linearisierten Fall und für kleine Abstände $\Delta T / d$
+
+$\boldsymbol{\lambda}=\begin{bmatrix}
 \lambda_{11} & 0 & 0 \\
 0 & \lambda_{22} & 0 \\
 0 & 0 & \lambda_{33}
 \end{bmatrix}$
+
 ist die Matrix der Wärmeleitfähigkeit.
 
 
@@ -122,7 +123,7 @@ $\dot{q}=\epsilon_{Emissionsgrad}\sigma_{Stefan-Boltzmann}AT^4$
 
 Emissiongrad $\epsilon_{Emissionsgrad}$ liegt zwischen 0 (perfekter Spiegel) und 1 (idealer Schwarzer Körper) und ist in Teilen materialabhängig.
 
-!!! "Info" Wärmestrahlung"
+!!! "info" Wärmestrahlung"
     Wird angewendet in einer Spektralanalysen, um die Zusammensetzung von Werkstoffen oder auch Sternen zu bestimmen. 
 
 ![bg right:50% fit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McCree-Kurve_Keramik-Metallhalogenid-Lampe_DE.svg/1920px-McCree-Kurve_Keramik-Metallhalogenid-Lampe_DE.svg.png)

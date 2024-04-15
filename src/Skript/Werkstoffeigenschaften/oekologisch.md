@@ -1,7 +1,9 @@
 # Ökologische Eigenschaften
 
 Ein Werkstoff hat keine intrinsische ökologische Eigenschaften. Der gesamte Lebenszyklus kann hingegen einen Umwelteinfluss haben. Dazu gehört die Gewinnung (bspw. Bergbau), Herstellung (bspw. Erzschmelzen), Verarbeitung (bspw. Umformen), Betrieb (Abrieb und dadurch Eintrag in die Umwelt), End-of-Life (bspw. Recycling). Bei der Auswahl der Werkstoffen spielt die Betrachtung des gesamten Lebenszyklus perspektivisch eine sehr große Rolle und ein zentrales Element, um eine Kreislaufwirtschaft zu realisieren. 
->Stichwort [Ökobilanzierung](https://www.umweltbundesamt.de/themen/wirtschaft-konsum/produkte/oekobilanz)
+
+!!! info "Ökobilanzierung"
+    [Ökobilanzierung](https://www.umweltbundesamt.de/themen/wirtschaft-konsum/produkte/oekobilanz) ist für Unternehmen mittlerweile ein relevanter Aspekt. Ziel ist die Bewertung des ökologischen Einflusses eines Produkts. Der Einfluss muss nicht notwendigerweise negativ sein. Holz ist bespw. so lange es nicht verrotet eine $\text{CO}_2$ Senke.
 
 In die Betrachtung gehen in allen Phasen Faktoren wie
 - Energieverbrauch
