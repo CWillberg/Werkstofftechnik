@@ -20,3 +20,7 @@ Geführte Ultraschallwellen
 Modale Analyse
 
 Akkustische Emission
+
+Lastpfadmonitoring
+
+Dehnungs- und Deformationsmonitoring
