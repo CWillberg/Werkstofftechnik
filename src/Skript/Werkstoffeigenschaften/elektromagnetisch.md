@@ -1,43 +1,75 @@
 # Elektrische und Magnetische Eigenschaften
 Die elektrischen und magnetischen Eigeschaften hängen in der Regel eng zusammen und beeinflussen sich gegenseitig. 
 
-[**Elektrischer Widerstand**](@ref "Elektrischer Widerstand") .
-
-$$R=\frac{U}{I}=\rho_{spezifisch}\frac{l}{A}$$
-
-Der spezifische Widerstand $\rho_{spezifisch}$ ist ein Materialkennwert. Er ist temperaturabhängig.
-
-Leiter
-
-$\rho_{spezifisch} < 100 \frac{\Omega mm^2}{m}$
-
-Halbleiter 
-
-$100<\rho_{spezifisch} < 10^{12} \frac{\Omega mm^2}{m}$
-
-Isolator 
-
-$\rho_{spezifisch} > 10^{12} \frac{\Omega mm^2}{m}$
-
-
-
-!!! info "Supraleitung"
-    Supraleiter besitzen bei Gleichstrom keinen ohmschen Widerstand, Strom fließt bei dieser tiefen Temperatur ohne Verluste. 
 
 [**Elektrische Leitfähigkeit**](@ref "Elektrische Leitfähigkeit")
 
-[**Halbleiter**](@ref "Halbleiter") 
+Durchschlagfestigkeit 	U 		V 		
+Durchschlagsspannung 	U 		V 		
+
+Magnetisierung 	M 	L−1 I 	A·m−1 		
+Koerzitivfeldstärke 	HC 		
+Remanenz 	BR 		
+Sättigungspolarisation 	JS 		V·s·m−2 		
+Permittivität 	ε 	M−1·L−3·T4·I2 	F·m−1 = A·s·V−1·m−1 		
+Permeabilität 	μr 				
 
 [**Weisssche Bezirke**](@ref "Weisssche Bezirke") Die spezifische Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
 
 https://de.wikipedia.org/wiki/Werkstoffkenngr%C3%B6%C3%9Fe
 
+## Durchschlagfestigkeit und Durchschlagsspannung
 
-## Elektrischer Widerstand
+## Permittivität
+https://de.wikipedia.org/wiki/Permittivit%C3%A4t
 
 ## Elektrische Leitfähigkeit
 
-## Halbleiter
+Die Leitfähigkeit eines Stoffes oder Stoffgemisches hängt von der Verfügbarkeit und Dichte beweglicher Ladungsträger ab. In Metallen sind diese in Form von Elektronen sehr locker gebunden. Jedes Material ist in einem Gewissen Maß leitfähig.
+
+
+!!! info "Leitfähigkeit"
+    Stoffe mit vielen frei beweglichen Ladungsträgern sind somit gut leitfähig.
+
+Einheit $\left[\frac{S}{m}\right.$, $\left.\frac{\Omega}{m}\right]$
+
+$$\mathbf{J}=\sigma_{elektrische Leitfähigkeit}\mathbf{E}$$
+
+!!! info "Supraleitung"
+    Supraleiter besitzt unendliche Leitfähigkeit. 
+
+Im Spezialfall konstanter elektrischer Leitfähigkeit entspricht dies dem Ohmschen Gesetz
+
+**Elektrischer Widerstand**
+
+Ohmschen Gesetzes
+
+$$R=\frac{U}{I}=\rho_{spezifisch}\frac{l}{A}$$
+
+Der spezifische Widerstand $\rho_{spezifisch}$ ist ein Materialkennwert. Er ist temperaturabhängig.
+
+Leiter - Metalle (Kupfer, Silber, ...), Graphit
+
+$\rho_{spezifisch} < 100 \frac{\Omega mm^2}{m}$
+
+Halbleiter - Silizium, Bor, Selen, ...
+
+$100<\rho_{spezifisch} < 10^{12} \frac{\Omega mm^2}{m}$
+
+Durch Dotierung lässt sich die Leitfähigkeit von Halbleitern stark beeinflussen, oft um mehrere Zehnerpotenzen. Das kann durch n-Dotierung ( Zugabe von Elektronendonatoren) oder eine p-Dotierung (Zugabe von Elektronenakzeptoren) zu (höchstreinem) Grundmaterial geschehen.
+[Durch](https://de.wikipedia.org/wiki/Elektrische_Leitf%C3%A4higkeit#Dotierung_(Elektronen,_Defektelektronen)) p-Dotierung entstehen Elektronenfehlstellen, auch Löcher oder Defektelektronen genannt, die ebenso die Leitung des elektrischen Stroms ermöglichen wie die überzähligen Elektronen im Falle n-dotierter Halbleiter. Die Leitfähigkeit entsteht dadurch, dass die Löcher bzw. Elektronen beweglich sind – wenn auch nicht so beweglich wie die Elektronen in Metallen.
+
+Isolator - Aluminiumoxidkeramik, Epoxidharze
+
+$\rho_{spezifisch} > 10^{12} \frac{\Omega mm^2}{m}$
+
+
+Verhindert die elektrische Leitung.
+
+!!! info "Supraleitung"
+    Supraleiter besitzen bei Gleichstrom keinen ohmschen Widerstand, Strom fließt bei dieser tiefen Temperatur ohne Verluste. 
+
+
 
 # Magnetismus
 ## Arten des Magnetismus
@@ -50,6 +82,8 @@ https://de.wikipedia.org/wiki/Werkstoffkenngr%C3%B6%C3%9Fe
 | Ferrimagnetismus | Vergleichbar zum Ferromagnetismus. Die mikroskopische Anordnung der magnetische Momente der Atome sind abgewechseln antiparallel ausgerichtet. Die Momente löschen sich dabei nicht vollständig aus. Für das gesamte Material wirkt der Ferrimagnetismus wie eine abgeschwächte Form des Ferromagnetismus | Nickel, Kupfer, Magnesium |
 | Antiferromagnetismus | Wie beim Ferrimagnetismus, nur das die antiparalleln magnetischen Pole sich gegeneinander auslöschen. Der idale Antiferromagnet zeigt ingesamt kein magnetisches Verhalten nach außen. Bei Erhitzung über die [Néel-Temperatur](https://de.wikipedia.org/wiki/N%C3%A9el-Temperatur) wird das Material paramagnetisch | einige Nickelverbindungen, Chrom |
 
+## Permeabilität
+https://de.wikipedia.org/wiki/Magnetische_Permeabilit%C3%A4t
 
 ## Weisssche Bezirke
 Sind mikroskopische magnetisierte Domänen in den Kristallen eines ferromagnetischen Stoffes. Die magnetischen Momente dieser Bezirke können erst einmal beliebig angeornet sein, sodass das Material ingesamt ein geringes magnetisches Moment aufweist. Durch das aufbringen eines externen magnetischen Felds, kann eine Ausrichtung erreicht werden, welche dann permanent ist. 
