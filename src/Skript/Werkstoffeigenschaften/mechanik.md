@@ -18,11 +18,11 @@
 ## Mechanische Dehnungen und mechanische Spannungen
 Dehungen beschreiben die relative Änderung der Form eines Körpers. Im einfachsten eindimensionalen Fall entspricht dies der Längenänderung
 
-$$\varepsilon = \frac{\Delta l}{l_0}$$
+$$\varepsilon_{mechanisch} = \frac{\Delta l}{l_0}$$
 
 Im allgemeinen Fall 
 
-$$\boldsymbol{\varepsilon} = 0.5\left(\text{grad}(\mathbf{u})^T\text{grad}(\mathbf{u}) - \mathbf{I}\right)$$
+$$\boldsymbol{\varepsilon}_{mechanisch} = 0.5\left(\text{grad}(\mathbf{u})^T\text{grad}(\mathbf{u}) - \mathbf{I}\right)$$
 
 Dehungen lassen sich somit geometrieunabhängig anwenden. Das ist sinnvoll, da sich hierdurch Materialgesetze formulieren lassen, welche auf verschiedenste Bauteile anwendbar sind.
 

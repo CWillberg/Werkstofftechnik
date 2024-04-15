@@ -24,11 +24,11 @@
 ## Wärmedehnung
 Die Wärmedehnung beschreibt allgemein die Kopplung zwischen Temperatur und Deformation. Sie tritt auf, weil mehr Temperatur zu stärkeren Schwingungen der Atome führt. Sie "brauchen" mehr Platz, da der Abstand zwischen ihnen gleich bleiben muss.
 
-_Allgemein_
+**Allgemein**
 
 $\boldsymbol{\varepsilon}_{thermisch}=-\boldsymbol{\alpha}\Delta T$
 
-_Wärmeausdehnungskoeffizientenmatrix_
+**Wärmeausdehnungskoeffizientenmatrix**
 
 $\boldsymbol{\alpha} = 
 \begin{bmatrix}
@@ -50,20 +50,37 @@ Wo ist die Wärmedehnung relevant
 - Brücken
 - Schienen
 - Hochpräzisionsmessgeräten
+- Löten, Schweißen, etc.
+- Gießen
 - ...
 
-Kann u.a. zu thermischen Eigenspannungen, Spring-in führen. Muss oft in der Fertigung berücksichtigt werden, um hohe Qualitätsanforderungen zu erreichen.
+Kann u.a. zu thermischen Eigenspannungen, Spring-in, Verzug führen. Muss oft in der Fertigung berücksichtigt werden, um hohe Qualitätsanforderungen zu erreichen.
 
-Beispiel: Thermische Spannungen 1D
+**Beispiel: Thermische Spannungen 1D**
 
-$\sigma = E \varepsilon = E (\varepsilon_{mechanisch}+\varepsilon_{thermisch})$
+$\sigma = E \varepsilon = E (\varepsilon_{mechanisch}+\varepsilon_{thermisch})= E (\varepsilon_{mechanisch}-\alpha\Delta T)$
 
-Durch eine Vordehung kann die Belastung auf ein Bauteil reduziert werden
+!!! tip "Spannungsmanipulation"
+    Durch eine Vordehung kann die Belastung auf ein Bauteil reduziert werden
+
+**Beispiel: Thermische Längenänderung 1D**
+
+$\Delta l = l_0 \varepsilon_{mechanisch}$
+
+Für freie eine Dehnung, d.h. es wirken keine Spannungen
+
+$0 = E \varepsilon = E (\varepsilon_{mechanisch}+\varepsilon_{thermisch})= E (\varepsilon_{mechanisch}-\alpha\Delta T)$
+
+$\varepsilon_{mechanisch}=\alpha\Delta T$
+$\Delta l = l_0 \varepsilon_{thermisch} = l_0\alpha\Delta T$
+
+!!! tip "Lägenänderungen"
+    Sind für die Konstruktur ggf. relevant, weil Passmaße sich ändern.
 
 ## Wärmeleitung
-Auch Konduktion und Wärmediffusion. Die Richtung ist immer von hohen Temperaturen zu niedrigen (2. Hauptsatz der Thermodynamik). Dabei geht keine Wärme aufgrund der Energieerhaltung verloten.
+Auch Konduktion und Wärmediffusion. Die Richtung ist immer von hohen Temperaturen zu niedrigen (2. Hauptsatz der Thermodynamik). Dabei geht keine Wärme aufgrund der Energieerhaltung verloren.
 
-$\dot{\mathbf{q}}=-\boldsymbol{\lambda}\text{grad}(T) $
+$\dot{\mathbf{q}}=-\boldsymbol{\lambda}\text{grad}(T)$
 
 - $\text{grad}(T)$ ist der Gradient der Temperaturänderung $\frac{\partial T}{\partial dx_i}$; im linearisierten Fall und für kleine Abstände $\Delta T / d$
 - $\boldsymbol{\lambda}=\begin{bmatrix}
@@ -85,7 +102,8 @@ ist die Matrix der Wärmeleitfähigkeit.
 
 Übertragung der Wärme von einem Festkörper in ein Fluid oder Gas. 
 
->Wichtig, wenn Maschinen gekühlt oder erwärmt werden sollen. 
+!!! tip "Maschinen und Heizkörper" 
+    Wichtig, wenn Maschinen gekühlt oder erwärmt werden sollen. 
 
 Wird durch den Wärmeübergangskoeffizient beschrieben. Er hängt unter anderem  von der spezifischen Wärmekapazität, der Dichte und dem Wärmeleitkoeffizienten des wärmeabführenden sowie des wärmeliefernden Mediums ab.
 
@@ -93,11 +111,22 @@ $\dot{q}=\alpha_{Übergang}A\Delta T$
 
 ## Spezifische Wärmekapazität
 
+Sagt aus wieviel Energie in Form von Wärme in einen Stoff "stecken" muss, um die Temperatur zu erhöhen.
+
 $C_p=\frac{\Delta q}{m \Delta T}$
 
+
 ## Wärmestrahlung
-Emissiongrad
->nutzbar für Spektralanalysen, um die Zusammensetzung von Werkstoffen zu bestimmen. 
+
+$\dot{q}=\epsilon_{Emissionsgrad}\sigma_{Stefan-Boltzmann}AT^4$
+
+Emissiongrad $\epsilon_{Emissionsgrad}$ liegt zwischen 0 (perfekter Spiegel) und 1 (idealer Schwarzer Körper) und ist in Teilen materialabhängig.
+
+!!! "Info" Wärmestrahlung"
+    Wird angewendet in einer Spektralanalysen, um die Zusammensetzung von Werkstoffen oder auch Sternen zu bestimmen. 
+
+![bg right:50% fit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McCree-Kurve_Keramik-Metallhalogenid-Lampe_DE.svg/1920px-McCree-Kurve_Keramik-Metallhalogenid-Lampe_DE.svg.png)
+
 
 
 # Spezielle Temperaturen
