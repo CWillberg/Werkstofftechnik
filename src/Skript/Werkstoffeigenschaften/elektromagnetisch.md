@@ -18,10 +18,35 @@ Permeabilität 	μr
 
 https://de.wikipedia.org/wiki/Werkstoffkenngr%C3%B6%C3%9Fe
 
-## Durchschlagfestigkeit und Durchschlagsspannung
 
 ## Permittivität
-https://de.wikipedia.org/wiki/Permittivit%C3%A4t
+
+Beschreibt das Verhaltnis zwischen der elektrischen Flussdichte und dem elektrischen Feld. $\varepsilon_0$ ist dabei die Permitivität im Vakuum.
+
+$\mathbf{D}=\varepsilon_0 \boldsymbol{\varepsilon}_{Permitivität}\mathbf{E}$
+
+
+$\boldsymbol{\varepsilon}_{Permitivität} = \begin{bmatrix}
+\varepsilon_{11} & \varepsilon_{12} & \varepsilon_{13} \\
+\varepsilon_{12} & \varepsilon_{22} & \varepsilon_{23} \\
+\varepsilon_{13} & \varepsilon_{23} & \varepsilon_{33}
+\end{bmatrix}$
+
+Je nach Kristallstruktur ist die Permittivität richtungsabhängig.
+| Symmetrie | Modell | 
+|---|---|
+| Isotropie | $\varepsilon_{11}=\varepsilon_{22}=\varepsilon_{33}$ und $\varepsilon_{12}=\varepsilon_{13}=\varepsilon_{23}=0$ |
+| transversale Isotropie | $\varepsilon_{22}=\varepsilon_{33}$ und $\varepsilon_{12}=\varepsilon_{13}=\varepsilon_{23}=0$| 
+| Orthotropie Isotropie | $\varepsilon_{12}=\varepsilon_{13}=\varepsilon_{23}=0$| 
+| Anisotropie | beliebige $\varepsilon_{ij}$ |
+
+
+Oft angeben als relative Permittivität
+
+$\varepsilon_r=\frac{\varepsilon_{Permittivität}}{\varepsilon_0}$
+
+!!! info "Kondensatoren"
+    Technisch wichtig für die Auslegung von Kondensatoren. Eine hohe Permittivität erlaubt stärkere Kondensatoren.
 
 ## Elektrische Leitfähigkeit
 
@@ -29,7 +54,7 @@ Die Leitfähigkeit eines Stoffes oder Stoffgemisches hängt von der Verfügbarke
 
 
 !!! info "Leitfähigkeit"
-    Stoffe mit vielen frei beweglichen Ladungsträgern sind somit gut leitfähig.
+    Stoffe mit vielen frei beweglichen Ladungsträgern sind somit gut leitfähig. 
 
 Einheit $\left[\frac{S}{m}\right.$, $\left.\frac{\Omega}{m}\right]$
 
