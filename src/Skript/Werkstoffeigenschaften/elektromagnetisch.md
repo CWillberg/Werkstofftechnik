@@ -4,19 +4,9 @@ Die elektrischen und magnetischen Eigeschaften hängen in der Regel eng zusammen
 
 [**Elektrische Leitfähigkeit**](@ref "Elektrische Leitfähigkeit")
 
-Durchschlagfestigkeit 	U 		V 		
-Durchschlagsspannung 	U 		V 		
-
-Magnetisierung 	M 	L−1 I 	A·m−1 		
-Koerzitivfeldstärke 	HC 		
-Remanenz 	BR 		
-Sättigungspolarisation 	JS 		V·s·m−2 		
-Permittivität 	ε 	M−1·L−3·T4·I2 	F·m−1 = A·s·V−1·m−1 		
-Permeabilität 	μr 				
+			
 
 [**Weisssche Bezirke**](@ref "Weisssche Bezirke") Die spezifische Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
-
-https://de.wikipedia.org/wiki/Werkstoffkenngr%C3%B6%C3%9Fe
 
 
 ## Permittivität
@@ -108,7 +98,40 @@ Verhindert die elektrische Leitung.
 | Antiferromagnetismus | Wie beim Ferrimagnetismus, nur das die antiparalleln magnetischen Pole sich gegeneinander auslöschen. Der idale Antiferromagnet zeigt ingesamt kein magnetisches Verhalten nach außen. Bei Erhitzung über die [Néel-Temperatur](https://de.wikipedia.org/wiki/N%C3%A9el-Temperatur) wird das Material paramagnetisch | einige Nickelverbindungen, Chrom |
 
 ## Permeabilität
-https://de.wikipedia.org/wiki/Magnetische_Permeabilit%C3%A4t
+
+Ist das Verhältnis zwischen magnetischer Flussdichte und magnetischer Feldstärke.
+
+$\mathbf{B}=\mu_0 \boldsymbol{\mu}\mathbf{H}$
+
+Ähnelt der Permittivität. Auch hier gibt es eine Konstante, die magnetische Feldkonstante $\mu_0$, welche die Permeabilität im Vakuum beschreibt.
+
+Im Allgemeinen gilt
+
+$\boldsymbol{\mu} = \begin{bmatrix}
+\mu_{11} & \mu_{12} & \mu_{13} \\
+\mu_{12} & \mu_{22} & \mu_{23} \\
+\mu_{13} & \mu_{23} & \mu_{33}
+\end{bmatrix}$
+
+Die relative Permeabilität 
+
+$\mu_r=\frac{\mu}{\mu_0}$
+
+lässt eine Einteilung der magnetischen Eigenschaften zu.
+
+
+Diamagnetische Stoffe  $0\leq \mu_{r}<1$
+
+Paramagnetische Stoffe $\mu_{r}>1$
+
+Superparamagnetische Stoffe  $\mu_{r}\gg 1$
+
+Ferrimagnetische Stoffe $ 20\lessapprox \mu_{r} \lessapprox 15000$
+
+Ferromagnetische Stoffe  $\mu_{r}\gg 1$; $40 \lessapprox \mu_r \lessapprox 10^6$
+
+!!! info "Supraleiter 1. Art"
+    Es handelt sich um ideale Diamagnetische Stoffe $\mu_{r} = 0$. Dadurch ist nicht nur der elektrische Widerstand Null, sondern auch der Widerstand aufgrund des elektrisch induzierten Magnetfelds.
 
 ## Weisssche Bezirke
 Sind mikroskopische magnetisierte Domänen in den Kristallen eines ferromagnetischen Stoffes. Die magnetischen Momente dieser Bezirke können erst einmal beliebig angeornet sein, sodass das Material ingesamt ein geringes magnetisches Moment aufweist. Durch das aufbringen eines externen magnetischen Felds, kann eine Ausrichtung erreicht werden, welche dann permanent ist. 
