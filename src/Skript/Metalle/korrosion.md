@@ -32,3 +32,9 @@ Bsp.:
 pH < 7 sauer
 pH = 7 ist neutral
 pH > 7 basisch
+
+Anionen - negative Ionen
+
+Katinionen - postivive Ionen
+
+[](https://upload.wikimedia.org/wikipedia/commons/c/c7/Galvanische_Zelle_2009-02-08.svg)

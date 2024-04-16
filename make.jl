@@ -24,7 +24,7 @@ makedocs(
                 "Kristalle"=>"Skript/svw/kristalle.md",
                 "Plastizität"=>"Skript/svw/plastizitaet.md"],
             "Metalle"=>Any[
-                    "Übersicht"=>"Skript/Metalle/Metalle.md",
+                    "Übersicht"=>"Skript/Metalle/metalle.md",
                     "Legierungen"=>"Skript/Metalle/legierungen.md",
                     "Wärmebehandlung"=>"Skript/Metalle/korrosion.md",
                     "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md"],
