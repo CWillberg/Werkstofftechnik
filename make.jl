@@ -23,10 +23,11 @@ makedocs(
                 "Gitterbaudefekte"=>"Skript/svw/gitterbaudefekte.md",
                 "Kristalle"=>"Skript/svw/kristalle.md",
                 "Plastizität"=>"Skript/svw/plastizitaet.md"],
-            "Phasendiagramme"=>Any[
-                    "Übersicht"=>"Skript/Phasendiagramme/phasendiagramme.md",
-                    "Legierungen"=>"Skript/Phasendiagramme/legierungen.md",
-                    "Wärmebehandlung"=>"Skript/Phasendiagramme/waermebehandlung.md"],
+            "Metalle"=>Any[
+                    "Übersicht"=>"Skript/Metalle/Metalle.md",
+                    "Legierungen"=>"Skript/Metalle/legierungen.md",
+                    "Wärmebehandlung"=>"Skript/Metalle/korrosion.md",
+                    "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md"],
             "Eigenschaften von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
                 "Mechanische Eigenschaften"=>"Skript/Werkstoffeigenschaften/mechanik.md",
@@ -39,6 +40,11 @@ makedocs(
                 "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffpruefung/charakterisierung.md",
                 "Zerstörende Prüfung"=>"Skript/Werkstoffpruefung/zp.md",
                 "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"],
+            "Nichtmetallische Werkstoffe"=>Any[
+                "Übersicht"=>"Skript/Nichtmetallische_Werkstoffe/nichtmetallische_werkstoffe.md",
+                "Charakterisierung von Werkstoffen"=>"Skript/Nichtmetallische_Werkstoffe/keramiken.md",
+                "Zerstörende Prüfung"=>"Skript/Nichtmetallische_Werkstoffe/kunststoffe.md",
+                "Zerstörungsfreie Prüfung"=>"Skript/Nichtmetallische_Werkstoffe/faserverbunde.md"],
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
