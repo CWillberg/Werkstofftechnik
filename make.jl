@@ -42,9 +42,9 @@ makedocs(
                 "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"],
             "Nichtmetallische Werkstoffe"=>Any[
                 "Übersicht"=>"Skript/Nichtmetallische_Werkstoffe/nichtmetallische_werkstoffe.md",
-                "Charakterisierung von Werkstoffen"=>"Skript/Nichtmetallische_Werkstoffe/keramiken.md",
-                "Zerstörende Prüfung"=>"Skript/Nichtmetallische_Werkstoffe/kunststoffe.md",
-                "Zerstörungsfreie Prüfung"=>"Skript/Nichtmetallische_Werkstoffe/faserverbunde.md"],
+                "Keramiken"=>"Skript/Nichtmetallische_Werkstoffe/keramiken.md",
+                "kunststoffe"=>"Skript/Nichtmetallische_Werkstoffe/kunststoffe.md",
+                "Faserverbundwerkstoffe"=>"Skript/Nichtmetallische_Werkstoffe/faserverbunde.md"],
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
