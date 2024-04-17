@@ -38,3 +38,37 @@ Anionen - negative Ionen
 Katinionen - postivive Ionen
 
 [](https://upload.wikimedia.org/wikipedia/commons/c/c7/Galvanische_Zelle_2009-02-08.svg)
+
+
+
+## Korrosionsschutz
+
+- Aktiver Schutz
+    - Opferanode
+    - Fremdstromanode
+    - Thermisches Spritzen
+    - Feuerverzinken
+    - Sherardisieren
+    - Zinklamellenüberzug
+    - kathodischer Korrosionsschutz
+    - Polarisation
+    - Schwachstrom
+    - Inhibitoren
+    - Verringerung des Sauerstoffgehaltes
+    - Förderung der Passivschichtbildung
+    - Homogenisierung des Gefüges
+    - Optimierung der Oberfläche
+- Passiver Schutz
+    - Feuerverzinkte geschraubte Stahlbaukonstruktion
+    - Feuerverzinken
+    - Schutzanstrich bzw. Schutzbeschichtung mit entsprechender Vorbehandlung oder unter Verwendung von Haftvermittlern
+    - Sonstiger organischer Transportschutz: Fette, Wachse, fluoriertes Polyurethan (FPU)
+    - Anorganischer nichtmetallischer Schutz: Passivierung, Oxide, Glas, insbesondere Borosilikatglas
+    - Anorganischer metallischer Schutz: Hämatit (Eisenglimmer), Zink, Aluminium
+    - Konstruktive Maßnahmen: durchgehend schweißen etc.
+    - Unterschiedliche Metalle nicht in direktem Kontakt verbauen, z. B. keine Chrom- oder Aluminiumzierteile direkt auf Stahl; Kfz-Nummernschilder mit Kunststoffzwischenlage montieren
+    - An gefährdeten Stellen Wasserabläufe vorsehen (z. B. in Autotüren)
+    - Hohlraumversiegelung
+    - Relais mit Schutzgas-Füllung, Reed-Relais
+    - Elektrolytisches Vergolden, z. B. in der Zahntechnik[6]
+    - Luftfilterung und Überdruckbelüftung von Gehäusen und Schaltschränken, z. B. durch chemisorptive Filter, zur Elimination korrosiver Gase wie H2S

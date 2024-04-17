@@ -26,7 +26,8 @@ makedocs(
             "Metalle"=>Any[
                     "Übersicht"=>"Skript/Metalle/metalle.md",
                     "Legierungen"=>"Skript/Metalle/legierungen.md",
-                    "Wärmebehandlung"=>"Skript/Metalle/korrosion.md",
+                    "Korrosion"=>"Skript/Metalle/korrosion.md",
+                    "Verschleiß"=>"Skript/Metalle/verschleiss.md",
                     "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md"],
             "Eigenschaften von Werkstoffen"=>Any[
                 "Übersicht"=>"Skript/Werkstoffeigenschaften/ueberblick.md",
