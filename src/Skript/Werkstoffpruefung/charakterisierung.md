@@ -1,0 +1,12 @@
+
+
+Steifigkeit
+
+Festigkeit
+
+Eigenfrequenzen
+
+Wöhlerversuch
+Grenzschwingspielzahl
+
+Spannungsintensitätsfaktoren

@@ -35,7 +35,9 @@ makedocs(
                 "Thermische Eigenschaften"=>"Skript/Werkstoffeigenschaften/thermisch.md",
                 "Elektro-Magnetische Eigenschaften"=>"Skript/Werkstoffeigenschaften/elektromagnetisch.md",
                 "Ökologische Eigenschaften"=>"Skript/Werkstoffeigenschaften/oekologisch.md",
-                "Sonstige Eigenschaften"=>"Skript/Werkstoffeigenschaften/sonstige.md"],
+                "Sonstige Eigenschaften"=>"Skript/Werkstoffeigenschaften/sonstige.md",
+                "Ermüdung"=>"Skript/Werkstoffeigenschaften/ermuedung.md"
+                ],
             "Werkstoffprüfung"=>Any[
                 "Übersicht"=>"Skript/Werkstoffpruefung/pruefung.md",
                 "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffpruefung/charakterisierung.md",
