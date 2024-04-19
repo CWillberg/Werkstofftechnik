@@ -134,5 +134,6 @@ Ferromagnetische Stoffe  $\mu_{r}\gg 1$; $40 \lessapprox \mu_r \lessapprox 10^6$
     Es handelt sich um ideale Diamagnetische Stoffe $\mu_{r} = 0$. Dadurch ist nicht nur der elektrische Widerstand Null, sondern auch der Widerstand aufgrund des elektrisch induzierten Magnetfelds.
 
 ## Weisssche Bezirke
-Sind mikroskopische magnetisierte Domänen in den Kristallen eines ferromagnetischen Stoffes. Die magnetischen Momente dieser Bezirke können erst einmal beliebig angeornet sein, sodass das Material ingesamt ein geringes magnetisches Moment aufweist. Durch das aufbringen eines externen magnetischen Felds, kann eine Ausrichtung erreicht werden, welche dann permanent ist. 
+Sind mikroskopische magnetisierte Domänen in den Kristallen eines ferromagnetischen Stoffes. Die magnetischen Momente dieser Bezirke können erst einmal beliebig angeornet sein, sodass das Material ingesamt ein geringes magnetisches Moment aufweist. Durch das aufbringen eines externen magnetischen Felds, kann eine Ausrichtung erreicht werden, welche dann permanent ist.
+ 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Growing-magnetic-domains.svg)
