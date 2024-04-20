@@ -36,6 +36,17 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
 ---
 
 ## Glühverfahren
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Glühverfahren für Stahl</title>
+</head>
+<body>
+
 <table>
   <thead>
     <tr>
@@ -49,19 +60,19 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
     <tr>
       <td>Spannungsarmglühen</td>
       <td>Langsames Erwärmen auf 550 - 650 °C (unterhalb Ac1), Haltedauer 2 - 4 h, langsame Abkühlung (Ofenabkühlung)</td>
-      <td><img src="../../Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/></td>
+      <td><img src="./Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/></td>
       <td>Abbau innerer Spannungen (Eigenspannungen) ohne wesentliche Änderung der sonstigen Eigenschaften</td>
     </tr>
     <tr>
       <td>Rekristallisationsglühen</td>
       <td>Rekristallisationstemperatur bei Stahl: 500 - 600°C, halten, langsame Abkühlung: zu lange Haltezeit: Grobkornbildung</td>
-      <td><img src="../../Figures/rekristallisationsgluehen.svg" width="500" alt="Rekristallisationsarmglühen"/></td>
+      <td><img src="../.././Figures/rekristallisationsgluehen.svg" width="500" alt="Rekristallisationsarmglühen"/></td>
       <td>Rückgängigmachen von Eigenschaftsänderungen (Verfestigung) durch Kaltumformung; Gefügeumbildung bzw. -neubildung im festen Zustand; Spannungsabbau, Erhöhung der Bruchdehnung</td>
     </tr>
     <tr>
       <td>Weichglühen</td>
       <td>Temperaturen um Ac1 (unterhalb, oberhalb oder pendelnd um Ac1), langsame Abkühlung</td>
-      <td><img src="../../Figures/weichgluehen.svg" width="500" alt="Weichglühen"/></td>
+      <td><img src="./Figures/weichgluehen.svg" width="500" alt="Weichglühen"/></td>
       <td>Herstellung eines - für die Weiterverarbeitung günstigen - weichen Zustands. Dabei werden Zementitteilchen kugelig eingeformt (GKZ-Glühen)</td>
     </tr>
     <tr>
@@ -73,7 +84,7 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
     <tr>
       <td>Grobkornglühen</td>
       <td>Temperatur deutlich über Ac3 (950 - 1100°C), Haltezeit 1 bis 2 h, langsame Ofenabkühlung, dann raschere Luftabkühlung</td>
-      <td><img src="../../Figures/grobkorngluehen.svg" width="500" alt="Grobkornglühen"/></td>
+      <td><img src="../..//Figures/grobkorngluehen.svg" width="500" alt="Grobkornglühen"/></td>
       <td>Erzielung eines groben Korns. Hierdurch wird die Spanbarkeit verbessert.</td>
     </tr>
     <tr>
@@ -84,7 +95,8 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
     </tr>
   </tbody>
 </table>
-
+</body>
+</html>
 
 
 ## ZTU-Schaubilder

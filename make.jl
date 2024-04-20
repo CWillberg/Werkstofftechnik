@@ -25,6 +25,7 @@ makedocs(
                 "Plastizität"=>"Skript/svw/plastizitaet.md"],
             "Metalle"=>Any[
                     "Übersicht"=>"Skript/Metalle/metalle.md",
+                    "Phasendiagramme"=>"Skript/Metalle/phasendiagramme.md",
                     "Legierungen"=>"Skript/Metalle/legierungen.md",
                     "Korrosion"=>"Skript/Metalle/korrosion.md",
                     "Verschleiß"=>"Skript/Metalle/verschleiss.md",
