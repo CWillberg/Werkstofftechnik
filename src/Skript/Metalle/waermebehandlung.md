@@ -36,67 +36,82 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
 ---
 
 ## Glühverfahren
-<img src="../../Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/>
+**Spannungsarmglühen**
 
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Glühverfahren für Stahl</title>
-</head>
-<body>
+Verfahrensparameter:
+- Langsames Erwärmen auf 550 - 650 °C (unterhalb Ac1)
+- Haltedauer 2 - 4 h, langsame Abkühlung (Ofenabkühlung)
 
-<table>
-  <thead>
-    <tr>
-      <th>Glühverfahren</th>
-      <th>Verfahrensparameter</th>
-      <th>T-t-Diagramm</th>
-      <th>Ziel</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Spannungsarmglühen</td>
-      <td>Langsames Erwärmen auf 550 - 650 °C (unterhalb Ac1), Haltedauer 2 - 4 h, langsame Abkühlung (Ofenabkühlung)</td>
-      <td><img src="../../Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/></td>
-      <td>Abbau innerer Spannungen (Eigenspannungen) ohne wesentliche Änderung der sonstigen Eigenschaften</td>
-    </tr>
-    <tr>
-      <td>Rekristallisationsglühen</td>
-      <td>Rekristallisationstemperatur bei Stahl: 500 - 600°C, halten, langsame Abkühlung: zu lange Haltezeit: Grobkornbildung</td>
-      <td><img src="../../Figures/rekristallisationsgluehen.svg" width="500" alt="Rekristallisationsarmglühen"/></td>
-      <td>Rückgängigmachen von Eigenschaftsänderungen (Verfestigung) durch Kaltumformung; Gefügeumbildung bzw. -neubildung im festen Zustand; Spannungsabbau, Erhöhung der Bruchdehnung</td>
-    </tr>
-    <tr>
-      <td>Weichglühen</td>
-      <td>Temperaturen um Ac1 (unterhalb, oberhalb oder pendelnd um Ac1), langsame Abkühlung</td>
-      <td><img src="./Figures/weichgluehen.svg" width="500" alt="Weichglühen"/></td>
-      <td>Herstellung eines - für die Weiterverarbeitung günstigen - weichen Zustands. Dabei werden Zementitteilchen kugelig eingeformt (GKZ-Glühen)</td>
-    </tr>
-    <tr>
-      <td>Normalglühen</td>
-      <td>Temperatur 30 - 50°C über Umwandlungstemp. im Austenitgebiet. Erwärmung zwischen AC1 und Glühtemp. rasch, kurze Haltedauer, rasche Abkühlung durch Zweiphasen-Intervall, dann langsam</td>
-      <td><img src="../../Figures/normalgluehen.svg" width="500" alt="Normalglühen"/></td>
-      <td>Herstellung eines gleichmäßigen und feinkörnigen Gefüges mit Perlitanteilen, Annäherung an den Gleichgewichtszustand durch zweifaches Umkörnen (bei Erwärmung und Abkühlung). Häufig eingesetztes Verfahren</td>
-    </tr>
-    <tr>
-      <td>Grobkornglühen</td>
-      <td>Temperatur deutlich über Ac3 (950 - 1100°C), Haltezeit 1 bis 2 h, langsame Ofenabkühlung, dann raschere Luftabkühlung</td>
-      <td><img src="../..//Figures/grobkorngluehen.svg" width="500" alt="Grobkornglühen"/></td>
-      <td>Erzielung eines groben Korns. Hierdurch wird die Spanbarkeit verbessert.</td>
-    </tr>
-    <tr>
-      <td>Diffusionsglühen</td>
-      <td>Temperatur hoch im Austenitbereich, lange Haltezeit (bis 50 h), langsame Abkühlung</td>
-      <td><img src="../../Figures/diffussionsgluehen.svg" width="500" alt="Diffusionsglühen"/></td>
-      <td>Beseitigung örtlicher Konzentrationsunterschiede (Seigerungen) durch Diffusion</td>
-    </tr>
-  </tbody>
-</table>
-</body>
-</html>
+![](../../Figures/spannungsarmgluehen.svg)
+
+Ziel:     
+    
+Abbau innerer Spannungen (Eigenspannungen) ohne wesentliche Änderung der sonstigen Eigenschaften
+
+**Rekristallisationsglühen** 
+
+Verfahrensparameter:
+- Rekristallisationstemperatur bei Stahl: 500 - 600°C
+- halten, langsame Abkühlung
+- bei zu langer Haltezeit: Grobkornbildung
+
+![](../../Figures/rekristallisationsgluehen.svg)
+
+Ziel:
+
+Rückgängigmachen von Eigenschaftsänderungen (Verfestigung) durch Kaltumformung; Gefügeumbildung bzw. -neubildung im festen Zustand; Spannungsabbau, Erhöhung der Bruchdehnung
+
+**Weichglühen**
+
+Verfahrensparameter:
+- Temperaturen um $\text{A}_{C1}$ (unterhalb, oberhalb oder pendelnd um $\text{A}_{C1}$)
+- langsame Abkühlung.
+
+![](../../Figures/weichgluehen.svg)
+
+Ziel:
+
+Herstellung eines - für die Weiterverarbeitung günstigen - weichen Zustands. Dabei werden Zementitteilchen kugelig eingeformt (GKZ-Glühen).
+
+**Normalglühen**
+
+Verfahrensparameter:
+- Temperatur 30 - 50°C über Umwandlungstempertur im Austenitgebiet. 
+- Erwärmung zwischen $\text{A}_{C1}$ und Glühtemperatur rasch, kurze Haltedauer
+- rasche Abkühlung durch Zweiphasen-Intervall, dann langsam abkühlen
+
+![](../../Figures/normalgluehen.svg)
+
+Ziel:
+
+Herstellung eines gleichmäßigen und feinkörnigen Gefüges mit Perlitanteilen, Annäherung an den Gleichgewichtszustand durch zweifaches Umkörnen (bei Erwärmung und Abkühlung). Häufig eingesetztes Verfahren
+
+**Grobkornglühen**
+
+Verfahrensparameter:
+- Temperatur deutlich über $\text{A}_{C3}$ (950 - 1100°C)
+- Haltezeit 1 bis 2 h
+- langsame Ofenabkühlung
+- dann raschere Luftabkühlung
+
+![](../../Figures/grobkorngluehen.svg)
+
+Ziel:
+
+Erzielung eines groben Korns. Hierdurch wird die Spanbarkeit verbessert.
+
+**Diffusionsglühen**
+
+Verfahrensparameter:
+- Temperatur hoch im Austenitbereich
+- lange Haltezeit (bis 50 h)
+- langsame Abkühlung
+
+![](../../Figures/diffussionsgluehen.svg)
+
+Ziel:
+
+Beseitigung örtlicher Konzentrationsunterschiede (Seigerungen) durch Diffusion.
 
 
 ## ZTU-Schaubilder

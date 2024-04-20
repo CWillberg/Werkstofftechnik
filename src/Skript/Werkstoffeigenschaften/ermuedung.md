@@ -13,7 +13,7 @@
     - elektrische Leiter (Glühfäden)
 
 
-<img src="https://leichtbau.dlr.de/wp-content/uploads/2021/11/Abbildung-2_Innovationsbericht_Wasserstofftank_CG06.png" alt="drawing" width="500"/>
+![](https://leichtbau.dlr.de/wp-content/uploads/2021/11/Abbildung-2_Innovationsbericht_Wasserstofftank_CG06.png)
 
 ---
 
@@ -40,6 +40,8 @@
     - wenn Belastung so niedrig ist, dass die Zyklenzahl gegen unendlich läuft
 - Ermüdungsbruch
     - Bruch aufgrund der Wechselbelastung
-- Wöhlerkurve, Wöhlerd
+- Wöhlerkurve
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pedalarm_Bruch.jpg" alt="drawing" width="500"/>
+
+Beispiel einer Ermüdungsbruchs
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Pedalarm_Bruch.jpg)
