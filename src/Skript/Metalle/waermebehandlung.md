@@ -36,7 +36,7 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
 ---
 
 ## Glühverfahren
-
+<img src="../../Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/>
 
 <!DOCTYPE html>
 <html lang="de">
@@ -60,13 +60,13 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
     <tr>
       <td>Spannungsarmglühen</td>
       <td>Langsames Erwärmen auf 550 - 650 °C (unterhalb Ac1), Haltedauer 2 - 4 h, langsame Abkühlung (Ofenabkühlung)</td>
-      <td><img src="./Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/></td>
+      <td><img src="../../Figures/spannungsarmgluehen.svg" height="500" alt="Spannungsarmglühen"/></td>
       <td>Abbau innerer Spannungen (Eigenspannungen) ohne wesentliche Änderung der sonstigen Eigenschaften</td>
     </tr>
     <tr>
       <td>Rekristallisationsglühen</td>
       <td>Rekristallisationstemperatur bei Stahl: 500 - 600°C, halten, langsame Abkühlung: zu lange Haltezeit: Grobkornbildung</td>
-      <td><img src="../.././Figures/rekristallisationsgluehen.svg" width="500" alt="Rekristallisationsarmglühen"/></td>
+      <td><img src="../../Figures/rekristallisationsgluehen.svg" width="500" alt="Rekristallisationsarmglühen"/></td>
       <td>Rückgängigmachen von Eigenschaftsänderungen (Verfestigung) durch Kaltumformung; Gefügeumbildung bzw. -neubildung im festen Zustand; Spannungsabbau, Erhöhung der Bruchdehnung</td>
     </tr>
     <tr>
@@ -100,77 +100,28 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
 
 
 ## ZTU-Schaubilder
-Das Umwandlungsverhalten aus dem Austenit ist für das Verständnis der Wärmebehandlung der Eisenwerkstoffe besonders wichtig. Je nach Abkühlungsgeschwindigkeit wird die Austenitum-wandlung zu tieferen Temperaturen verschoben (Bereich „A“ in Bild 4.3-1 b) und es werden drei Bereiche der γ-α-Umwandlung unterschieden: Perlitstufe, Zwischenstufe, Martensitstufe
+Das Umwandlungsverhalten aus dem Austenit ist für das Verständnis der Wärmebehandlung der Eisenwerkstoffe besonders wichtig. Je nach Abkühlungsgeschwindigkeit wird die Austenitum-wandlung zu tieferen Temperaturen verschoben (Bereich „A“ in Bild 4.3-1 b) und es werden drei Bereiche der $\gamma$-$\alpha$-Umwandlung unterschieden: Perlitstufe, Zwischenstufe, Martensitstufe
 
-Der Gleichgewichtszustand des EKD wird bei Wärmebehandlungsverfahren mit beschleunigter Abkühlung nicht mehr eingehalten. Das Umwandlungsverhalten des Austenits bei einer Tempera-turführung je nach Wärmebehandlungsverfahren und einer Gefüge verändernden Beeinflussung durch Legierungselemente ist den  Zeit-Temperatur-Umwandlungs-Schaubildern (ZTU-Schau-bildern) der Stähle zu entnehmen. ZTU-Schaubilder stellen sozusagen eine Erweiterung des Ei-sen-Kohlenstoff-Diagramms in die dritte Dimension, die Zeit, dar. 
+Der Gleichgewichtszustand des EKD wird bei Wärmebehandlungsverfahren mit beschleunigter Abkühlung nicht mehr eingehalten. Das Umwandlungsverhalten des Austenits bei einer Tempera-turführung je nach Wärmebehandlungsverfahren und einer Gefüge verändernden Beeinflussung durch Legierungselemente ist den  Zeit-Temperatur-Umwandlungs-Schaubildern (ZTU-Schau-bildern) der Stähle zu entnehmen. ZTU-Schaubilder stellen sozusagen eine Erweiterung des Eisen-Kohlenstoff-Diagramms in die dritte Dimension, die Zeit, dar. 
 
-Das Aufstellen der ZTU- Schaubilder erfolgt mittels dilatometrischen und metallographischen Un-tersuchungen. Diese ZTU- Schaubilder sind eine der Grundlagen für die Erstellung von Anweisun-gen zur praktischen Durchführung der Wärmebehandlung. Dabei wird die Umwandlung zum Einen bei konstanter Temperatur (ZTU - Schaubild für isotherme Umwandlung) und zum Anderen bei kontinuierlicher Abkühlung (ZTU - Schaubild für kontinuierliche Abkühlung) betrachtet. Diese Diagramme geben Auskunft über Beginn und Ende der Umwandlung des jeweiligen Gefüges in Abhängigkeit von Temperatur und Zeit. 
+Das Aufstellen der ZTU-Schaubilder erfolgt mittels dilatometrischen und metallographischen Untersuchungen. Diese ZTU-Schaubilder sind eine der Grundlagen für die Erstellung von Anweisun-gen zur praktischen Durchführung der Wärmebehandlung. Dabei wird die Umwandlung zum Einen bei konstanter Temperatur (ZTU - Schaubild für isotherme Umwandlung) und zum Anderen bei kontinuierlicher Abkühlung (ZTU - Schaubild für kontinuierliche Abkühlung) betrachtet. Diese Diagramme geben Auskunft über Beginn und Ende der Umwandlung des jeweiligen Gefüges in Abhängigkeit von Temperatur und Zeit. 
 Beim isothermen ZTU-Schaubild wird die Probe von der Austenitisierungstemperatur auf die gewünschte Temperatur abgeschreckt, und diese solange gehalten (Ölbad) bis die Umwandlung abgeschlossen ist.
 Beim kontinuierlichen ZTU-Schaubild wird ausgehend von der Austenitiseriungsbedingung ver-schieden schnell abgekühlt, wodurch die Umwandlung in Ferrit, Perlit, Bainit (Zwischenstufe) oder Martensit bei verschiedenen Temperaturen in unterschiedlichem Ausmaß stattfindet. Am Ende der Abkühlkurve wird meist die erreichbare Härte eingetragen.
-Für zahlreiche Stähle sind die Zeit- Temperatur- Umwandlungs- Schaubilder- (kontinuierlich und isotherm) im Atlas für Wärmebehandlung zu finden. Je ein Beispiel für den Vergütungsstahl 42CrMo4 ist im Bild 4.3-1 dargestellt.
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b)
-
-
-
-Bild 4.3-1: ZTU-Schaubilder für den Vergütungsstahl 42CrMo4 
-	a) für isotherme Umwandlung; b) kontinuierliche Abkühlung
-
+Für zahlreiche Stähle sind die Zeit- Temperatur- Umwandlungs- Schaubilder- (kontinuierlich und isotherm) im Atlas für Wärmebehandlung zu finden. Je ein Beispiel für den Vergütungsstahl 42CrMo4 ist im Bild dargestellt.
+Für eine isotherme Abkühlung
+![](../../Figures/ztisotherm.png)
+und eine kontinuierliche.
+![](../../Figures/ztukontinuierlich.png)
 
  
 ## Härteverfahren
 ## Härten nach Volumenerwärmung
 Voraussetzung für die Härtbarkeit eines Stahles ohne jegliche Vorbehandlung ist ein Kohlen-stoffgehalt von mindestens 0,3%. Bei Werkstücken mit kleinen Abmessungen kann eine vollstän-dige Martensitbildung über den gesamten Querschnitt erfolgen (Durchhärtung). Bei großen Ab-messungen wird die kritische Abkühlgeschwindigkeit nur bis zu einer bestimmten Tiefe erreicht (Einhärtung). Die Einhärtungstiefe ist abhängig von:
 
-	dem Querschnitt des Werkstückes
-	der kritischen Abkühlgeschwindigkeit des Werkstoffes (beeinflussbar durch
+-	dem Querschnitt des Werkstückes
+-	der kritischen Abkühlgeschwindigkeit des Werkstoffes (beeinflussbar durch
  Legierungselemente)
-	dem Kühlvermögen des Abkühlmittels
+	dem Kühlvermögen des Abkühlmittels
 
 Die erreichbare Höchsthärte ist allein vom Kohlenstoffgehalt abhängig, der zum Zeitpunkt des Ab-schreckens im Austenit gelöst war. Die Legierungselemente beeinflussen nur die Durchhärtung. Die maximal erreichbare Härte bei 100%iger Umwandlung zum Martensit liegt bei ca. 66 HRC (Rockwell-C Härteeinheiten) und wird bei ungefähr 0,8% des im γ-Mischkristall gelösten Kohlen-stoffes erreicht.
 
@@ -179,7 +130,7 @@ Der beim Härten mit der Martensitbildung bewusst realisierte Ungleichgewichtszu
 Die sich einstellenden Gefügeänderungen sind abhängig von den Anlasstemperaturen und Anlass-zeiten, wobei im Stahl vorhandene Legierungselemente die Anlassstufen zu höheren Temperaturen verschieben.
 
 1. Anlassstufe: 80 - 150° C
-Verringerung der tetragonalen Verzerrung durch Diffusion der auf Zwischengit-terplätzen zwangsgelösten Kohlenstoffatome → Bildung des kubischen Martensits und ε- (Ungleichgewichts-) Carbids (Volumenverringerung)
+Verringerung der tetragonalen Verzerrung durch Diffusion der auf Zwischengitterplätzen zwangsgelösten Kohlenstoffatome → Bildung des kubischen Martensits und ε- (Ungleichgewichts-) Carbids (Volumenverringerung)
 
 2. Anlassstufe: 130 - 290°C
 Umwandlung des Restaustenits in kubischen Martensit 
@@ -198,10 +149,10 @@ Randschichthärten wird angewendet bei niedrig- und unlegierten Stählen mit 0,3
 Ziel dieses Verfahrens ist eine harte und verschleißbeständige Oberfläche bei zähem Kern. Dazu wird die Randschicht des Werkstückes auf Härtetemperatur erhitzt und durch Abschrecken gehär-tet.
 Das Randschichthärten ist mit folgenden Verfahren möglich:
 
-•	Flammhärten
-•	Induktionshärten
-•	Strahlhärten (Elektronenstrahl- und Laserhärten)
-•	Tauchhärten (für Teile mit mehrfach gekrümmten Oberflächen, bei denen o.g. Verfahren zu aufwendig sind)
+- Flammhärten
+- Induktionshärten
+- Strahlhärten (Elektronenstrahl- und Laserhärten)
+- Tauchhärten (für Teile mit mehrfach gekrümmten Oberflächen, bei denen o.g. Verfahren zu aufwendig sind)
 
 
 ## Thermochemische Verfahren
@@ -210,28 +161,25 @@ Bei den thermochemischen Verfahren wird die Randschicht von Werkstücken durch E
 ## Aufkohlen / Einsatzhärten
 Aufkohlen ist das thermochemische Behandeln von Werkstücken im austenitischen Zustand zum Anreichern der Randschicht mit Kohlenstoff, der im Austenit in fester Lösung (Einlagerungs-mischkristall) vorliegt. Die aufgekohlten Werkstücke werden anschließend unmittelbar oder nach Wiedererwärmen gehärtet (s. Bild 4.5-1). Die Kombination Aufkohlen und Härten wird als Ein-satzhärten bezeichnet und bei Stählen mit niedrigem Kohlenstoffgehalt von 0,2% (Einsatzstähle) angewendet:
 
-1.	Aufkohlen (Einsetzen, Zementieren) der Randschicht durch langzeitiges Halten 
-über A‪c3  (850- 930°C) als‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
--	Gasaufkohlen in CO-, CH4-haltigen Gasen
--	Badaufkohlen in cyanathaltigen Salzschmelzen
+1. Aufkohlen (Einsetzen, Zementieren) der Randschicht durch langzeitiges    Halten über $\text{A}_{c3}$  (850- 930°C) als
+    -	Gasaufkohlen in CO-, CH4-haltigen Gasen
+    -	Badaufkohlen in cyanathaltigen Salzschmelzen
 2.	Härten der Werkstücke
 
 Das Härten der aufgekohlten Bauteile kann je nach Werkstoff und Anforderung an das Bauteil so-wie dessen Form und Größe unterschiedlich erfolgen. Es ist dabei zu beachten, dass das Werkstück eigentlich aus zwei Werkstoffen besteht:
 
-1.	einer kohlenstoffreichen Randschicht  ( ~ 0,8% Kohlenstoff)
+1.	einer kohlenstoffreichen Randschicht  (~ 0,8% Kohlenstoff)
 2.	einem kohlenstoffarmen Kern (~ 0,2% Kohlenstoff)
 
  
 Die wichtigsten Verfahren sind:
-	Direkthärten (Härten von Aufkohlungstemperatur)
+-	Direkthärten (Härten von Aufkohlungstemperatur)
 Nach dem Bad- bzw. Gasaufkohlen bei geometrisch einfachen Teilen und geringer  
-Aufkohlungs- bzw. Einsatzhärtungstiefe ( Bild 4.5-1)
-	Kern- bzw. Randhärten:
+Aufkohlungs- bzw. Einsatzhärtungstiefe
+-	Kern- bzw. Randhärten:
 Nach dem Aufkohlen werden die Teile auf Raumtemperatur oder Zwischenglühtemperatur (500 - 650°C) abgekühlt. Die Härtung erfolgt von Austenitisierungs-Temperaturen, die den Kohlenstoffgehalten der Kern- (KHT) oder der Randzone (RHT) entsprechen (Bild 4.5-1)
 
- 
 
-Bild 4.5-1: Temperatur-Zeit-Verlauf für verschiedene Einsatzhärtungsverfahren
 
 ## Nitrieren
 Beim Nitrieren erfolgt das Anreichern der Randschichten eines Werkstoffes mit Stickstoff in ammoniakhaltigen Gasen oder in cyanathaltigen Salzbädern in einem Temperaturbereich von 480- 580°C. Hierbei ist das Ziel eine Erhöhung der Härte der Oberfläche von Werkstücken durch Bildung sehr harter Nitride. Für diese Behandlung sind Vergütungsstähle geeignet, die mit Nit-ridbildnern (Al, Cr, Mo und V) legiert sind.
@@ -249,9 +197,6 @@ Aushärten ist eine Wärmebehandlung bestehend aus Lösungsglühen und Auslagern
 
 Bei Legierungen, die diese Voraussetzungen erfüllen, erfolgt die Wärmebehandlung in drei Schrit-ten (Bild 4.7-1):
 
- 
-Bild 4.7-1: Ablauf eines Aushärtungsprozesses am Beispiel einer Al-Cu-Legierung
-
 1. Lösungsglühen
 Die Legierung wird auf Homogenisierungstemperatur erwärmt und so lange gehalten, bis alle Segregate im Mischkristall gelöst sind, es liegt Einphasigkeit vor.
 2. Abschrecken
@@ -259,18 +204,4 @@ Das Abschrecken von der Homogenisierungstemperatur verhindert das Ausscheiden de
 3. Auslagern
 Das Auslagern bei legierungsspezifischen Temperaturen  (Kalt- oder Warmauslagern) führt zu ein- oder zweiphasigen Entmischungen, d.h. Ausscheidungen im submikroskopischen Bereich führen zur Festigkeitssteigerung.
 
-Diese Ausscheidungen können als Guinier-Preston-Zonen, z.B. in einer Al-Cu-Legierung, oder als kohärente Ausscheidungen (Bild 4.7-2), z.B. in Al-Mg-Si- Legierungen, auftreten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bild 4.7-2: Kohärente Ausscheidung
+Diese Ausscheidungen können als Guinier-Preston-Zonen, z.B. in einer Al-Cu-Legierung, oder als kohärente Ausscheidungen , z.B. in Al-Mg-Si- Legierungen, auftreten.
