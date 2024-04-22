@@ -179,15 +179,15 @@ Bei den thermochemischen Verfahren wird die Randschicht von Werkstücken durch E
 ## Aufkohlen / Einsatzhärten
 Aufkohlen ist das thermochemische Behandeln von Werkstücken im austenitischen Zustand zum Anreichern der Randschicht mit Kohlenstoff, der im Austenit in fester Lösung (Einlagerungsmischkristall) vorliegt. Die aufgekohlten Werkstücke werden anschließend unmittelbar oder nach Wiedererwärmen gehärtet. Die Kombination Aufkohlen und Härten wird als Ein-satzhärten bezeichnet und bei Stählen mit niedrigem Kohlenstoffgehalt von 0.2% (Einsatzstähle) angewendet:
 
-1. Aufkohlen (Einsetzen, Zementieren) der Randschicht durch langzeitiges    Halten über $\text{A}_{c3}$  (850- 930°C) als
+1. Aufkohlen (Einsetzen, Zementieren) der Randschicht durch langzeitiges    Halten über $\text{A}_{C3}$  (850- 930°C) als
     - Gasaufkohlen in CO-, CH4-haltigen Gasen
     - Badaufkohlen in cyanathaltigen Salzschmelzen
 2.	Härten der Werkstücke
 
 Das Härten der aufgekohlten Bauteile kann je nach Werkstoff und Anforderung an das Bauteil so-wie dessen Form und Größe unterschiedlich erfolgen. Es ist dabei zu beachten, dass das Werkstück eigentlich aus zwei Werkstoffen besteht:
 
-1.	einer kohlenstoffreichen Randschicht  (~ 0.8% Kohlenstoff)
-2.	einem kohlenstoffarmen Kern (~ 0.2% Kohlenstoff)
+1.	einer kohlenstoffreichen Randschicht  (~0.8% Kohlenstoff)
+2.	einem kohlenstoffarmen Kern (~0.2% Kohlenstoff)
 
  
 Die wichtigsten Verfahren sind:
@@ -212,7 +212,7 @@ Aushärten ist eine Wärmebehandlung bestehend aus Lösungsglühen und Auslagern
 2.	Bei langsamer Abkühlung müssen die Mischkristalle Segregate ausscheiden, d. h., abneh-mende Löslichkeit für eine Komponente existiert bei abnehmender Temperatur (zweiphasi-ger Bereich)
 3.	Die homogenen Mischkristalle bei höheren Temperaturen müssen auch nach dem Abschre-cken in homogener, aber übersättigter Form bestehen bleiben.
 
-Bei Legierungen, die diese Voraussetzungen erfüllen, erfolgt die Wärmebehandlung in drei Schrit-ten (Bild 4.7-1):
+Bei Legierungen, die diese Voraussetzungen erfüllen, erfolgt die Wärmebehandlung in drei Schritten:
 
 1. Lösungsglühen
 Die Legierung wird auf Homogenisierungstemperatur erwärmt und so lange gehalten, bis alle Segregate im Mischkristall gelöst sind, es liegt Einphasigkeit vor.
@@ -222,3 +222,5 @@ Das Abschrecken von der Homogenisierungstemperatur verhindert das Ausscheiden de
 Das Auslagern bei legierungsspezifischen Temperaturen  (Kalt- oder Warmauslagern) führt zu ein- oder zweiphasigen Entmischungen, d.h. Ausscheidungen im submikroskopischen Bereich führen zur Festigkeitssteigerung.
 
 Diese Ausscheidungen können als Guinier-Preston-Zonen, z.B. in einer Al-Cu-Legierung, oder als kohärente Ausscheidungen , z.B. in Al-Mg-Si- Legierungen, auftreten.
+
+![](../../Figures/direkthaerten-kernhaerten.svg)
