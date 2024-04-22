@@ -39,7 +39,7 @@ Ziel einer Wärmebehandlung kann beispielsweise sein:
 **Spannungsarmglühen**
 
 Verfahrensparameter:
-- Langsames Erwärmen auf 550 - 650 °C (unterhalb Ac1)
+- Langsames Erwärmen auf 550 - 650 °C (unterhalb  $\text{A}_{C1}$)
 - Haltedauer 2 - 4 h, langsame Abkühlung (Ofenabkühlung)
 
 ![](../../Figures/spannungsarmgluehen.svg)
@@ -131,21 +131,19 @@ und eine kontinuierliche.
  
 ## Härteverfahren
 ## Härten nach Volumenerwärmung
-Voraussetzung für die Härtbarkeit eines Stahles ohne jegliche Vorbehandlung ist ein Kohlen-stoffgehalt von mindestens 0,3%. Bei Werkstücken mit kleinen Abmessungen kann eine vollstän-dige Martensitbildung über den gesamten Querschnitt erfolgen (Durchhärtung). Bei großen Ab-messungen wird die kritische Abkühlgeschwindigkeit nur bis zu einer bestimmten Tiefe erreicht (Einhärtung). Die Einhärtungstiefe ist abhängig von:
+Voraussetzung für die Härtbarkeit eines Stahles ohne jegliche Vorbehandlung ist ein Kohlen-stoffgehalt von mindestens 0.3%. Bei Werkstücken mit kleinen Abmessungen kann eine vollständige Martensitbildung über den gesamten Querschnitt erfolgen (Durchhärtung). Bei großen Abmessungen wird die kritische Abkühlgeschwindigkeit nur bis zu einer bestimmten Tiefe erreicht (Einhärtung). Die Einhärtungstiefe ist abhängig von:
 
--	dem Querschnitt des Werkstückes
--	der kritischen Abkühlgeschwindigkeit des Werkstoffes (beeinflussbar durch
- Legierungselemente)
-	dem Kühlvermögen des Abkühlmittels
+- dem Querschnitt des Werkstückes
+- der kritischen Abkühlgeschwindigkeit des Werkstoffes (beeinflussbar durch Legierungselemente) und	dem Kühlvermögen des Abkühlmittels
 
-Die erreichbare Höchsthärte ist allein vom Kohlenstoffgehalt abhängig, der zum Zeitpunkt des Ab-schreckens im Austenit gelöst war. Die Legierungselemente beeinflussen nur die Durchhärtung. Die maximal erreichbare Härte bei 100%iger Umwandlung zum Martensit liegt bei ca. 66 HRC (Rockwell-C Härteeinheiten) und wird bei ungefähr 0,8% des im γ-Mischkristall gelösten Kohlen-stoffes erreicht.
+Die erreichbare Höchsthärte ist allein vom Kohlenstoffgehalt abhängig, der zum Zeitpunkt des Abschreckens im Austenit gelöst war. Die Legierungselemente beeinflussen nur die Durchhärtung. Die maximal erreichbare Härte bei 100%iger Umwandlung zum Martensit liegt bei ca. 66 HRC (Rockwell-C Härteeinheiten) und wird bei ungefähr 0.8% des im $\gamma$-Mischkristall gelösten Kohlenstoffes erreicht.
 
 ## Anlassen
-Der beim Härten mit der Martensitbildung bewusst realisierte Ungleichgewichtszustand soll durch Erwärmen unterhalb Ac1, auch als Anlassen bezeichnet, in einen dem Gleichgewicht näheren Zu-stand überführt werden. Wegen der großen Härte und Sprödigkeit des Martensits werden die tech-nischen Gebrauchseigenschaften eines Stahles erst durch Anlassen erreicht.
-Die sich einstellenden Gefügeänderungen sind abhängig von den Anlasstemperaturen und Anlass-zeiten, wobei im Stahl vorhandene Legierungselemente die Anlassstufen zu höheren Temperaturen verschieben.
+Der beim Härten mit der Martensitbildung bewusst realisierte Ungleichgewichtszustand soll durch Erwärmen unterhalb $\text{A}_{C1}$, auch als Anlassen bezeichnet, in einen dem Gleichgewicht näheren Zu-stand überführt werden. Wegen der großen Härte und Sprödigkeit des Martensits werden die technischen Gebrauchseigenschaften eines Stahles erst durch Anlassen erreicht.
+Die sich einstellenden Gefügeänderungen sind abhängig von den Anlasstemperaturen und Anlasszeiten, wobei im Stahl vorhandene Legierungselemente die Anlassstufen zu höheren Temperaturen verschieben.
 
 1. Anlassstufe: 80 - 150° C
-Verringerung der tetragonalen Verzerrung durch Diffusion der auf Zwischengitterplätzen zwangsgelösten Kohlenstoffatome → Bildung des kubischen Martensits und ε- (Ungleichgewichts-) Carbids (Volumenverringerung)
+Verringerung der tetragonalen Verzerrung durch Diffusion der auf Zwischengitterplätzen zwangsgelösten Kohlenstoffatome $\rightarrow$ Bildung des kubischen Martensits und $\varepsilon$- (Ungleichgewichts-) Carbids (Volumenverringerung)
 
 2. Anlassstufe: 130 - 290°C
 Umwandlung des Restaustenits in kubischen Martensit 
@@ -156,44 +154,48 @@ Ausscheiden des gesamten Kohlenstoffs und Bildung von Zementit
 (Volumenverringerung)
 
 ## Vergüten
-Vergüten ist die unmittelbare Verbindung der Verfahren Härten und nachfolgendem Anlassen, und zwar bei höheren Temperaturen (350 – 700°C), zur Erzielung hoher Zähigkeit bei entspre-chender Festigkeit. Es wird angewendet bei Stählen mit 0,2 – 0,6% Kohlenstoff (Vergütungsstäh-le). Durch eine Gefügeverfeinerung hinsichtlich der Korn- und Karbidgröße sowie der Karbidver-teilung werden beim Vergüten die genannten mechanischen Eigenschaften erreicht.
-Die erreichbaren Verbesserungen der mechanischen Eigenschaften sind querschnittsabhängig. Eine Durchvergütung größerer Querschnitte ist nur bei legierten Stählen möglich. Gegenüber dem nor-malisierten Zustand wird durch Vergüten eine erhebliche Zunahme der Festigkeit bei geringer Ab-nahme der Zähigkeitseigenschaften erreicht.
+Vergüten ist die unmittelbare Verbindung der Verfahren Härten und nachfolgendem Anlassen, und zwar bei höheren Temperaturen (350 – 700°C), zur Erzielung hoher Zähigkeit bei entspre-chender Festigkeit. Es wird angewendet bei Stählen mit 0.2 – 0.6% Kohlenstoff (Vergütungsstähle). Durch eine Gefügeverfeinerung hinsichtlich der Korn- und Karbidgröße sowie der Karbidver-teilung werden beim Vergüten die genannten mechanischen Eigenschaften erreicht.
+Die erreichbaren Verbesserungen der mechanischen Eigenschaften sind querschnittsabhängig. Eine Durchvergütung größerer Querschnitte ist nur bei legierten Stählen möglich. Gegenüber dem normalisierten Zustand wird durch Vergüten eine erhebliche Zunahme der Festigkeit bei geringer Ab-nahme der Zähigkeitseigenschaften erreicht.
 
 ## Randschichthärten
-Randschichthärten wird angewendet bei niedrig- und unlegierten Stählen mit 0,3 - 0,7% Kohlen-stoff (obere Grenze zur Vermeidung von Härterissen), insbesondere bei Kurbelwellen, Zapfen, Walzen, Zahnrädern u.a..
+Randschichthärten wird angewendet bei niedrig- und unlegierten Stählen mit 0.3 - 0.7% Kohlen-stoff (obere Grenze zur Vermeidung von Härterissen), insbesondere bei Kurbelwellen, Zapfen, Walzen, Zahnrädern u.a..
 Ziel dieses Verfahrens ist eine harte und verschleißbeständige Oberfläche bei zähem Kern. Dazu wird die Randschicht des Werkstückes auf Härtetemperatur erhitzt und durch Abschrecken gehär-tet.
-Das Randschichthärten ist mit folgenden Verfahren möglich:
+Das [Randschichthärten](http://wiki.arnold-horsch.de/index.php/Oberfl%C3%A4chenh%C3%A4rteverfahren)  ist mit folgenden Verfahren möglich:
 
 - Flammhärten
+
+![](http://wiki.arnold-horsch.de/images/3/36/Flamm-1.png)
+
 - Induktionshärten
+
+![](http://wiki.arnold-horsch.de/images/c/c8/Induktion-1.png)
+
 - Strahlhärten (Elektronenstrahl- und Laserhärten)
 - Tauchhärten (für Teile mit mehrfach gekrümmten Oberflächen, bei denen o.g. Verfahren zu aufwendig sind)
 
-
 ## Thermochemische Verfahren
-Bei den thermochemischen Verfahren wird die Randschicht von Werkstücken durch Eindiffundie-ren  chemischer Elemente in ihrer Zusammensetzung geändert, um bessere Verschleiß-, Korrosi-ons- und/oder Festigkeitseigenschaften zu erreichen. Als wichtigste Elemente sind Kohlenstoff, Stickstoff und Bor zu nennen, aber auch Metalle wie Zink, Chrom, Aluminium, Silizium u.a. wer-den benutzt.
+Bei den thermochemischen Verfahren wird die Randschicht von Werkstücken durch Eindiffundieren  chemischer Elemente in ihrer Zusammensetzung geändert, um bessere Verschleiß-, Korrosions- und/oder Festigkeitseigenschaften zu erreichen. Als wichtigste Elemente sind Kohlenstoff, Stickstoff und Bor zu nennen, aber auch Metalle wie Zink, Chrom, Aluminium, Silizium u.a. werden benutzt.
 
 ## Aufkohlen / Einsatzhärten
-Aufkohlen ist das thermochemische Behandeln von Werkstücken im austenitischen Zustand zum Anreichern der Randschicht mit Kohlenstoff, der im Austenit in fester Lösung (Einlagerungs-mischkristall) vorliegt. Die aufgekohlten Werkstücke werden anschließend unmittelbar oder nach Wiedererwärmen gehärtet (s. Bild 4.5-1). Die Kombination Aufkohlen und Härten wird als Ein-satzhärten bezeichnet und bei Stählen mit niedrigem Kohlenstoffgehalt von 0,2% (Einsatzstähle) angewendet:
+Aufkohlen ist das thermochemische Behandeln von Werkstücken im austenitischen Zustand zum Anreichern der Randschicht mit Kohlenstoff, der im Austenit in fester Lösung (Einlagerungsmischkristall) vorliegt. Die aufgekohlten Werkstücke werden anschließend unmittelbar oder nach Wiedererwärmen gehärtet. Die Kombination Aufkohlen und Härten wird als Ein-satzhärten bezeichnet und bei Stählen mit niedrigem Kohlenstoffgehalt von 0.2% (Einsatzstähle) angewendet:
 
 1. Aufkohlen (Einsetzen, Zementieren) der Randschicht durch langzeitiges    Halten über $\text{A}_{c3}$  (850- 930°C) als
-    -	Gasaufkohlen in CO-, CH4-haltigen Gasen
-    -	Badaufkohlen in cyanathaltigen Salzschmelzen
+    - Gasaufkohlen in CO-, CH4-haltigen Gasen
+    - Badaufkohlen in cyanathaltigen Salzschmelzen
 2.	Härten der Werkstücke
 
 Das Härten der aufgekohlten Bauteile kann je nach Werkstoff und Anforderung an das Bauteil so-wie dessen Form und Größe unterschiedlich erfolgen. Es ist dabei zu beachten, dass das Werkstück eigentlich aus zwei Werkstoffen besteht:
 
-1.	einer kohlenstoffreichen Randschicht  (~ 0,8% Kohlenstoff)
-2.	einem kohlenstoffarmen Kern (~ 0,2% Kohlenstoff)
+1.	einer kohlenstoffreichen Randschicht  (~ 0.8% Kohlenstoff)
+2.	einem kohlenstoffarmen Kern (~ 0.2% Kohlenstoff)
 
  
 Die wichtigsten Verfahren sind:
--	Direkthärten (Härten von Aufkohlungstemperatur)
+- Direkthärten (Härten von Aufkohlungstemperatur)
 Nach dem Bad- bzw. Gasaufkohlen bei geometrisch einfachen Teilen und geringer  
 Aufkohlungs- bzw. Einsatzhärtungstiefe
--	Kern- bzw. Randhärten:
-Nach dem Aufkohlen werden die Teile auf Raumtemperatur oder Zwischenglühtemperatur (500 - 650°C) abgekühlt. Die Härtung erfolgt von Austenitisierungs-Temperaturen, die den Kohlenstoffgehalten der Kern- (KHT) oder der Randzone (RHT) entsprechen (Bild 4.5-1)
-
+- Kern- bzw. Randhärten:
+Nach dem Aufkohlen werden die Teile auf Raumtemperatur oder Zwischenglühtemperatur (500 - 650°C) abgekühlt. Die Härtung erfolgt von Austenitisierungs-Temperaturen, die den Kohlenstoffgehalten der Kern- (KHT) oder der Randzone (RHT) entsprechen
 
 
 ## Nitrieren
