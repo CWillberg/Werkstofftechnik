@@ -1,12 +1,21 @@
+## Charkterisierung 
+Im Folgenden sollen einfache Charakteriisierungsbeispiele erläutert werden.
 
 
-Steifigkeit
 
-Festigkeit
+##
 
-Eigenfrequenzen
+## Festigkeit
 
-Wöhlerversuch
-Grenzschwingspielzahl
+## Eigenfrequenzen
 
-Spannungsintensitätsfaktoren
+## Wöhlerversuch
+Der Wöhlerversuch wird durchgeführt, um das Ermüdungsverhalten von Materialien zu bestimmen. Es gibt mehrere Schwierigkeiten. 
+Herausforderungen
+- Erreichen der Zyklenzahl
+- Vermeiden eines thermischen Einflusses, bspw. bei Kunststoffen oder anderen viskoelastischen Materialien
+
+
+## Grenzschwingspielzahl
+
+## Spannungsintensitätsfaktoren
