@@ -10,10 +10,12 @@
 - Berstversuch zur Festigkeitsprüfung von Hochdruckbehältern, -kesseln und -rohrleitungen
 - Biegeversuch und Faltversuch von Blechen
 - Blaubruchversuch zur Prüfung von Stählen auf makroskopische, nichtmetallische Einschlüsse
+- Metallographische Untersuchungen zur Bestimmung der Kristallstruktur
 - Bulgeversuch
 - Dauerschwingversuch nach Wöhler
 - Druckversuch
 - Kerbschlagbiegeversuch nach Charpy, Izod und Schlagzug
+- Relaxationsversuch
 - Scherversuch
 - Split-Hopkinson Druckstab zur Prüfung hoher Umformgeschwindigkeiten
 - Tiefungsversuch nach Erichsen
@@ -21,13 +23,20 @@
 - Zeitstandversuch
 - Zugversuch zur Prüfung der Zugfestigkeit, vor allem der Elastizitätsgrenze. 
 
-**Chemisch und thermisch**
+**Chemisch, thermisch, elektrisch**
 
 - Brennprobe
 - Differenz-Thermoanalyse
 - Gaschromatografie
 - Kristallographie/Metallografie
 - Stirnabschreckversuch
+- Korrosionsversuche
+
+**Elektrisch**
+- Durchschlagversuche
+
+**Chemisch, elektrisch, mechanisch und thermisch**
+- Blitzschlag
 
 ## Zugversuch (ISO 6892-1) / Druckversuch
 
