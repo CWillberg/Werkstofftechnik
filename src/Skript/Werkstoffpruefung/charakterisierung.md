@@ -1,7 +1,7 @@
 ## Charkterisierung 
 Mathematische Modelle werden im Ingenieurswesen genutzt, um Vorhersagen über das Verhalten von Bauteilen und Strukturen zu machen. Die Bestimmung der Parameter nennt man Charakterisierung. 
 
-Dabei ist wichtig, dass auch Experimente Modelle der Realität sind. Es wird versucht die mathematische-physikalischen Modelle durch den Experimentalaufbau zu approximieren. Ein fundiertes Wissen über die im Ingenieurswesen verwendetes Wissen ist hilfreich, um die Experimente besser zu verstehen.
+Dabei ist wichtig, dass auch Experimente, Modelle der Realität sind. Es wird versucht die mathematische-physikalischen Modelle durch den Experimentalaufbau zu approximieren. Ein fundiertes Wissen über die im Ingenieurswesen verwendetes Wissen ist hilfreich, um die Experimente besser zu verstehen.
 
 
 ## Modelle - Grundlagen
