@@ -63,8 +63,35 @@ Wird genutzt, um die Interphasenfestigkeit und/oder -haftung zu bestimmen, bspw.
 
 ## Biegeversuch
 
+Es werden in der Regel Flachproben mit einem Rechteckprofil verwendet. Dabei müssne die Annahmen der Bernoulli Balkentheorie gelten 
+$l>20*a$.
 
-## Druckversuch
+$F$ - Prüfkraft
+
+$u$ - resultierende Verschiebung
+
+$a$ - Höhe des rechteckigen Profils
+
+$b$ - Breite des rechteckigen Profils
+
+$l_B$ - Länge der Probe
+
+Es gibt verschiedene Biegeversuche
+- 2 Punkt Biegeversuch
+    - Kragbalken mit einer Belastung am freien Ende
+    - über die Balkentheorie kann der E Modul bestimmt werden
+    - $E=\frac{4l_B^2 F}{uba^3}$
+- 3 Punkt Biegeversuch
+    - der Balken ist auf einem Loslager-Loslager und Festlager-Loslager positioniert
+    - über die Balkentheorie kann der E Modul bestimmt werden
+    - $E=\frac{l_B^3 F}{4uba^3}$
+- 4 Punkt Biegeversuch
+    - Prüfprobe auf zwei Auflagen positioniert und in der Mitte mit einem Prüfstempel mit zwei Druckpunkten belastet
+    - Ziel ist ein konstantes Biegemoment und daraus resultierend ein querkraftfreier Bereich
+    - über die Balkentheorie kann der E Modul bestimmt werden
+    - $E=\frac{l_A^2(2l_A+3l_B) F}{uba^3}$; $l_A$ Abstand zwischen Auflagepunkt und näher gelegenem Druckpunkt des Prüfstempels; 
+
+Die Balken können bis Bruch gefahren werden und so die Zugfestigkeit bestimmt werden.
 
 ## Scherversuch
 
