@@ -129,10 +129,11 @@ Einflussgrößen
   - Probeneinspannung
 
 ## Ausziehversuch
-Wird genutzt, um die Interphasenfestigkeit und/oder -haftung zu bestimmen, bspw. Kohlefaseranbindung an thermoplastische Matrix; Stahlstäbe an Beton. 
+Wird genutzt, um die Interphasenfestigkeit und/oder -haftung zu bestimmen, bspw. Kohlefaseranbindung an der Kunststoffmatrix; Stahlstäbe an Beton. 
 
-## Berstversuch
+Im Bauwesen dient dies der Druckfestigkeitsbestimmung. Es wird die Kraft gemessen, die benötigt wird, um einen Stahlstab aus dem zu prüfenden Beton herauszuziehen. Zum gewünschten Prüfzeitpunkt, z. B. 28 Tage nach der Betonage, wird der Stab mit einer hydraulisch oder mechanisch betriebenen Vorrichtung gezogen. Für die Tests ist eine Kalibrierung an Proben mit bekannter Druckfestigkeit nötig.
 
+Bei Faserverbunden wird ein ähnliches Prinzip verwendet. Dort wird eine Faser einlaminiert. Ein Teil reicher heraus, an welchem gezogen wird. Unter der Annahme einer reinen Schubbelastung zwischen Faser und Matrix kann so die Interphasen Schubfestigkeit bestimmt werden.
 
 ## Biegeversuch
 
