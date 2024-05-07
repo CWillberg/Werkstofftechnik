@@ -13,7 +13,7 @@ True positves and Ture negatives sind die erwünschten Ergebnisse einer ZfP.
 
 Tabelle übernommen aus [Wikipedia](https://de.wikipedia.org/wiki/Werkstoffpr%C3%BCfung#Zerst%C3%B6rungsfreie_Werkstoffpr%C3%BCfung)
 | Prüfverfahren                             | Dynamisch/ Statisch | Anregung           | Prüfbereich |
-|-------------------------------------------|---------------------|--------------------|-------------|
+|---|---|---|---|
 | Akustische Resonanzanalyse                | Dynamisch           | Mechanisch         | Volumen     |
 | Bewehrungsortung (induktiv)               | Statisch            | Magnetisch         | Volumen     |
 | Bewehrungsortung (kapazitiv)              | Statisch            | Elektrisch         | Volumen     |
