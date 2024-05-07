@@ -1,4 +1,4 @@
-using Documenter, DocumenterCitations
+using Documenter, DocumenterCitations, DocumenterMermaid
 
 bib = CitationBibliography(joinpath(@__DIR__, "src", "ref.bib"))
 
