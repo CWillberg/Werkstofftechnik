@@ -67,7 +67,7 @@ Die Eindringprüfung ist auf allen Werkstoffen anwendbar, die eine eindeutige An
 1. Reinigung, 2. Farbe auftragen und eindringen lassen, 3. Oberflächliches reinigen, 4. Entwickler auftragen
 
 
-Kann bei Tagesliucht oder im dunkeln durchgeführt (Fluoreszierende Eindringprüfung) werden. Farbe variiert bedarfsabhängig.
+Kann bei Tageslicht oder im dunkeln durchgeführt (Fluoreszierende Eindringprüfung) werden. Farbe variiert bedarfsabhängig.
 
 
 
@@ -85,7 +85,11 @@ Modalanalyse
 
 ## Ultraschallprüfung
 
+**Koppelmittel**
 
+[Koppelmittel](https://www.olympus-ims.com/de/applications/ultrasonic-couplant/) zur Ultraschallprüfung werden in allen Kontaktprüfungen eingesetzt, um die Übertragung der Schallenergie zwischen Schallkopf und Prüfteil zu erleichtern. Koppelmittel sind zähflüssige ungiftige Flüssigkeiten, Gels oder Pasten. Ihr Einsatz ist notwendig, da Schallenergie bei den für die zerstörungsfreie Prüfung typischerweise verwendeten Ultraschallfrequenzen nicht effektiv durch die Luft übertragen wird. Abgesehen von Dämpfungseffekten stellt Luft eine starke akustische Impedanz-Fehlanpassung sowohl für die Schallkopf-Verschleißplatten als auch für typische Testmaterialien dar. Auch wenn nur ein sehr kleiner Luftspalt zwischen Schallkopf und Prüfteil besteht, kann keine Schallenergie übertragen werden und die Prüfung mit konventionellem Ultraschall ist nicht möglich.
+
+Eine Anzahl herkömmlicher Substanzen, wie Wasser, Motoröl, Schmierfett und sogar einige kommerzielle Produkte, wie Haargel, können als Koppelmittel bei vielen Anwendungen eingesetzt werden. Die besten Ergebnisse bei der Scherwellenprüfung mit hohen Temperaturen und normalem Einfallwinkel werden jedoch mit speziell formulierten Koppelmitteln erreicht. Die Olympus Produktreihe an Koppelmitteln für die Ultraschallprüfung umfasst fünf verschiedene Produkte, die für verschiedene Anwendungen optimiert sind. Hier eine Beschreibung der einzelnen Komponenten mit ihrem Bestellcode. 
 
 
 ##
