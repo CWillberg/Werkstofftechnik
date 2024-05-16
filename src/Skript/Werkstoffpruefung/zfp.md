@@ -226,7 +226,7 @@ sie haben eine Gruppen und Phasengeschwindigkeit
 
 ![](../../Figures/piezo.png)
 
-![](../../Figures/polarization_2.png)
+![](../../Figures/Polarization_2.png)
 
 ---
 
