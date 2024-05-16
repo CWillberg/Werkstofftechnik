@@ -239,7 +239,7 @@ $\frac{p_{a,r}}{p_{a,e}}=\frac{W_2-W_1}{W_2+W_1}$
 _Durchgehender Schall_
 $\frac{p_{a,d}}{p_{a,e}}=\frac{2W_2}{W_2+W_1}$
 
-![bg right fit](./Figures/reflexion.png)
+![](../../Figures/reflexion.png)
 
 
 ## Signal - Rausch Verhältnis
