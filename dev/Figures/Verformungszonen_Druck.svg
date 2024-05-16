@@ -2,16 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="110mm"
+   height="87.107925mm"
+   viewBox="0 0 110 87.107925"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="Verformungszonen_Druck.svg"
-   inkscape:export-filename="..\..\..\material_science_de_lecture_04\Figures\Verformungszonen_Druck.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,8 +36,8 @@
     <inkscape:grid
        id="grid1"
        units="mm"
-       originx="0"
-       originy="0"
+       originx="-20.000002"
+       originy="-16.530443"
        spacingx="0.99999998"
        spacingy="1"
        empcolor="#0099e5"
@@ -93,40 +90,12 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:none"
          id="path17-0" />
     </marker>
-    <meshgradient
-       inkscape:collect="always"
-       id="meshgradient18"
-       gradientUnits="userSpaceOnUse"
-       x="130.1322"
-       y="133.87265">
-      <meshrow
-         id="meshrow18">
-        <meshpatch
-           id="meshpatch18">
-          <stop
-             path="c 102.273,0  204.546,0  306.819,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop18" />
-          <stop
-             path="c 0,61.9208  0,123.842  0,185.762"
-             style="stop-color:#000000;stop-opacity:1"
-             id="stop19" />
-          <stop
-             path="c -102.273,0  -204.546,0  -306.819,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop20" />
-          <stop
-             path="c 0,-61.9208  0,-123.842  0,-185.762"
-             style="stop-color:#000000;stop-opacity:1"
-             id="stop21" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
   </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-20,-16.530443)">
     <g
        id="g12">
       <g
@@ -316,7 +285,7 @@
        id="path16-3"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:url(#meshgradient18);fill-opacity:1;stroke:#000000;stroke-width:0.652305;stroke-opacity:1"
+       style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:0.652305;stroke-opacity:1"
        d="m 131.23545,318.4968 c -0.60679,-0.62604 -1.10325,-1.29848 -1.10325,-1.4943 0,-0.19583 2.78259,-6.4895 6.18353,-13.98594 13.13676,-28.95641 17.12274,-41.44948 19.5885,-61.39523 0.86717,-7.01456 0.86717,-22.66388 0,-29.67844 -2.52013,-20.38556 -6.36456,-32.33524 -20.20983,-62.81832 -3.05921,-6.73544 -5.5622,-12.41336 -5.5622,-12.61759 0,-0.20423 0.52534,-0.8805 1.16742,-1.50283 l 1.16742,-1.1315 4.61432,2.90172 c 30.61524,19.25247 69.98876,30.27512 120.10097,33.62238 10.91932,0.72936 39.53835,0.83482 49.85373,0.18371 36.92957,-2.33101 66.86215,-8.37263 93.02554,-18.77634 10.53298,-4.18838 24.22595,-11.19601 31.65451,-16.19978 1.36783,-0.92135 2.61047,-1.67238 2.76143,-1.66895 0.15096,0.003 0.76642,0.59895 1.36768,1.3234 l 1.09321,1.31719 -2.42409,5.32127 c -6.75748,14.83381 -10.46235,23.23158 -12.53717,28.41778 -8.11964,20.29582 -11.65302,37.27144 -11.68146,56.12191 -0.0288,19.0878 3.5111,36.35992 11.60113,56.60501 1.3267,3.32002 5.25656,12.32148 8.73304,20.00324 l 6.32087,13.96685 -1.09937,1.28229 c -0.60465,0.70526 -1.22288,1.29545 -1.37384,1.31152 -0.15096,0.0161 -1.3936,-0.72148 -2.76143,-1.639 -22.34574,-14.98923 -55.42062,-26.47544 -91.0599,-31.62319 -19.92446,-2.8779 -33.8905,-3.79824 -57.43745,-3.78505 -18.13689,0.0102 -26.90833,0.38548 -40.04068,1.71327 -43.75297,4.4238 -79.0409,15.31015 -106.94796,32.99354 -2.05681,1.3033 -3.77381,2.36964 -3.81554,2.36964 -0.0417,0 -0.57234,-0.51221 -1.17913,-1.13826 z m 171.1407,-98.10048 v -12.59901 h -18.9848 -18.98481 v 12.59901 12.599 h 18.98481 18.9848 z"
        id="path18"
        transform="scale(0.26458333)" />
