@@ -37,9 +37,9 @@ makedocs(
                 "Legierungen"=>"Skript/Metalle/legierungen.md",
                 "Korrosion"=>"Skript/Metalle/korrosion.md",
                 "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md",
-                "Nicht Eisen Metalle"=>"Skript/Metalle/nichtEisen.md"],
+                "Nicht Eisen Metalle"=>"Skript/Metalle/nichteisen.md"],
             "Weitere Werkstoffe"=>Any[
-                "Übersicht"=>"Skript/Weitere_Werkstoffe/metalle.md",
+                "Übersicht"=>"Skript/Weitere_Werkstoffe/ueberblick.md",
                 "Keramiken"=>"Skript/Weitere_Werkstoffe/keramiken.md",
                 "Kunststoffe"=>"Skript/Weitere_Werkstoffe/kunststoffe.md",
                 "Verbundwerkstoffe"=>"Skript/Weitere_Werkstoffe/faserverbunde.md",
@@ -53,12 +53,7 @@ makedocs(
                 "Übersicht"=>"Skript/Werkstoffpruefung/pruefung.md",
                 "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffpruefung/charakterisierung.md",
                 "Zerstörende Prüfung"=>"Skript/Werkstoffpruefung/zp.md",
-                "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"],
-            "Nichtmetallische Werkstoffe"=>Any[
-                "Übersicht"=>"Skript/Nichtmetallische_Werkstoffe/nichtmetallische_werkstoffe.md",
-                "Keramiken"=>"Skript/Nichtmetallische_Werkstoffe/keramiken.md",
-                "kunststoffe"=>"Skript/Nichtmetallische_Werkstoffe/kunststoffe.md",
-                "Faserverbundwerkstoffe"=>"Skript/Nichtmetallische_Werkstoffe/faserverbunde.md"],
+                "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"]
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
