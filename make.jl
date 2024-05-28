@@ -30,13 +30,20 @@ makedocs(
                 "Elektro-Magnetische Eigenschaften"=>"Skript/Werkstoffeigenschaften/elektromagnetisch.md",
                 "Ökologische Eigenschaften"=>"Skript/Werkstoffeigenschaften/oekologisch.md",
                 "Sonstige Eigenschaften"=>"Skript/Werkstoffeigenschaften/sonstige.md"
-                ],
+            ],
             "Metalle"=>Any[
                 "Übersicht"=>"Skript/Metalle/metalle.md",
                 "Phasendiagramme"=>"Skript/Metalle/phasendiagramme.md",
                 "Legierungen"=>"Skript/Metalle/legierungen.md",
                 "Korrosion"=>"Skript/Metalle/korrosion.md",
-                "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md"],
+                "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md",
+                "Nicht Eisen Metalle"=>"Skript/Metalle/nichtEisen.md"],
+            "Weitere Werkstoffe"=>Any[
+                "Übersicht"=>"Skript/Weitere_Werkstoffe/metalle.md",
+                "Keramiken"=>"Skript/Weitere_Werkstoffe/keramiken.md",
+                "Kunststoffe"=>"Skript/Weitere_Werkstoffe/kunststoffe.md",
+                "Verbundwerkstoffe"=>"Skript/Weitere_Werkstoffe/faserverbunde.md",
+                "Sonstige"=>"Skript/Weitere_Werkstoffe/sonderfaelle.md"],
             "Versagen"=>Any[
                 "Übersicht"=>"Skript/Versagen/uebersicht.md",
                 "Verschleiss"=>"Skript/Versagen/verschleiss.md",

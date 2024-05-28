@@ -25,6 +25,7 @@
 |Mechanische Spannung (1D) | $\sigma = \frac{F}{A} = E\varepsilon$ |
 |Schubspanngen | $\tau = G\gamma$ |
 |Mechanische Spannung (allgemein) | $\boldsymbol{\sigma} = \mathbf{C}\mathbf{\varepsilon} $ |
-|Steifigkeit | $c = \frac{EA}{l}$\|
-|Torsionssteifigkeit | $c_T=\frac{GI_P}{l}$\|
+|Zugsteifigkeit | $c = \frac{EA}{l}$ |
+|Torsionssteifigkeit | $c_T=\frac{GI_P}{l}$ |
 |Biegesteifigkeit | $c_B=\frac{EI}{l}$|
+|Spezifische Festigkeit | $R_{spez} = \frac{R_{m}}{\rho}$ |
