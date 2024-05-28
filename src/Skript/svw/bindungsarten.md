@@ -1,12 +1,18 @@
 # Bindungen
+Die Bindungskräfte zwischen den Atomen sind elektromagnetischer Natur. Die Zahl der Außenelektronen ist dabei eine wichtige Größe. Eine vollbesetzte [Elektronenschale](https://de.wikipedia.org/wiki/Schalenmodell_(Atomphysik)) stellt einen stabilen Zustand dar. Daher sind alle Elemente bestrebt diesen Zustand zu erreichen indem sie Elektronen aufnehmen (Mg z. B. 2), bzw. abgeben (z. B. Cl 1).
 
-## Hauptvalenzbindungen  (Primärbindungen - hohe Bindungsenergie, starke Bindung)
+Die wesentlichen chemischen Eigenschaften werden durch die äußeren Elektronen der 1. und 2. Hülle bestimmt.
+
+Das Bestreben, fehlende Elektronen von anderen Atomen zu übernehmen bzw. gemeinsam zu nutzen, führt zu unterschiedlichen Bindungsarten. Es wird grundsätzlich unterschieden zwischen:
+- Hauptvalenzbindungen  (Primärbindungen - hohe Bindungsenergie, starke Bindung)
+- Neben- oder Restvalenzbindungen 	(Sekundärbindungen - geringe Bindungsenergie, schwache Bindung)
+
+## Hauptvalenzbindungen
 Atome streben an ihre Atomhüllen aufzufüllen. Jedes Atom "möchte" ein Edelgas sein. Die Atome streben durch Aufnahme oder Abgabe von Elektronen danach, für ihre äußerste besetzte Schale die Edelgaskonfiguration und den energieärmsten Zustand zu erreichen.
 
 - Ionen- bzw. heteropolare Bindung 
 - Atom- bzw. homöopolare (oder kovalente) Bindung: polar (O-H) und unpolar (C-C, C-H)
 - Metallische Bindung
-
 
 Bezeichnung	
 Ionenbindung oder heteropolare Bindung	
@@ -24,8 +30,6 @@ NaCl, MgO	Diamant, Methan CH4 (unpolar)
 Methanol CH3OH (polar)	Cu, Al, Fe…
 
 
-
-
-## Neben- oder Restvalenzbindungen 	(Sekundärbindungen - geringe Bindungsenergie, schwache Bindung)
+## Neben- oder Restvalenzbindungen
 - van der Waals-Bindung: zwischenmolekulare Kräfte
 - Wasserstoffbrückenbindung: zwei Moleküle oder zwei geeignet weit voneinander getrennte Abschnitte eines Makromoleküls treten über Wasserstoffatome in Wechselwirkung 

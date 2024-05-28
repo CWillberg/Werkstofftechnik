@@ -102,6 +102,10 @@ Die **Streckgrenze** definiert dabei wann ein Material seine plastische Verformu
 
 Die **Festigkeit** ist die Spannung bei der das totale Versagen des Material auftritt. Wird in Kombination mit Sicherheitsbeiwerten für die Auslegung bestimmter Strukturbereiche verwendet und ist daher von hoher Relevanz. 
 
+Im **Leichtbau** ist die spezifische Festigkeit relevant. Diese lässt sich bestimmen, indem man die Festigkeit durch die Dichte teilt. 
+> Für Metalle (Stahl, Aluminium und Titan) ergibt sich eine ähnliche spezifische Festigkeit.
+
+
 ## Steifigkeit
 Die Steifigkeit beschreibt das Verhältnis der äußeren Belastung zur absoluten Verformung einer Struktur. Die Steifigkeit ist nur teilweise abhängig vom Material. Es spiele ganz wesentlich geometrische Größen eine Rolle, bspw.:
 
