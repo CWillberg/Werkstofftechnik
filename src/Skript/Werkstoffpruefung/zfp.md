@@ -311,7 +311,7 @@ Luft
 - Laufzeit vs. Amplitude
 - bei konstanter Geschwindigkeit kann für einen Punkt eine Fehlstelle im Signal detektiert werden
 
-![bg right fit](https://wiki.polymerservice-merseburg.de/images/4/40/A_bild.JPG)
+![](https://wiki.polymerservice-merseburg.de/images/4/40/A_bild.JPG)
 
 ## B Bild (brightness)
 
@@ -319,7 +319,7 @@ Luft
 - Durch die Erfassung der Schallrichtung können 2D oder 3D Bilder erzeugt werden
 
 
-![bg right 70%](https://www.spektrum.de/lexika/images/physik/fff925_w.jpg)
+![](https://www.spektrum.de/lexika/images/physik/fff925_w.jpg)
 
 ## C Bild
 - ein projiziertes Bild der Größen der Fehlstellen
@@ -330,7 +330,7 @@ Luft
 
 - flächiger Scan
 
-![bg right 80%](https://wiki.polymerservice-merseburg.de/images/a/a7/D_Bild_Technik-4.JPG)
+![](https://wiki.polymerservice-merseburg.de/images/a/a7/D_Bild_Technik-4.JPG)
 
 ![](https://wiki.polymerservice-merseburg.de/images/a/af/D_Bild_Technik-1.JPG)
 
@@ -473,7 +473,7 @@ Potentiale
 - Lichquellen beeinflusssen maßgeblich den Kontrast
 - Filter
 
-![bg right fit](https://www.ikts.fraunhofer.de/de/abteilungen/werkstoff_prozesscharakterisierung/korrelative_mikroskopie_und_materialdaten/fa_multiskalige-3D-analytik_datenkorrelation_und_praeparation_in_der_halbleiterentwicklung/jcr:content/contentPar/sectioncomponent_cop/sectionParsys/imagerow/imageComponent1/image.img.4col.jpg/1683533051397/39-4-3d-detailansicht-eines-cpu-chips.jpg)
+![](https://www.ikts.fraunhofer.de/de/abteilungen/werkstoff_prozesscharakterisierung/korrelative_mikroskopie_und_materialdaten/fa_multiskalige-3D-analytik_datenkorrelation_und_praeparation_in_der_halbleiterentwicklung/jcr:content/contentPar/sectioncomponent_cop/sectionParsys/imagerow/imageComponent1/image.img.4col.jpg/1683533051397/39-4-3d-detailansicht-eines-cpu-chips.jpg)
 
 ---
 

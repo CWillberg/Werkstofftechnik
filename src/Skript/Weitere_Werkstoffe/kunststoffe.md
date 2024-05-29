@@ -4,6 +4,8 @@ Kunststoffe bestehen hauptsächlich aus Makromolekülen. Je nach Herstellungsver
 
 <img src="../../Figures/Syndiotactic_polypropene.png" alt="https://commons.wikimedia.org/wiki/User:Dubaj~commonswiki" style="height:150px;width:auto;vertical-align: top;background-color:transparent;">
 
+<img src="https://raw.githubusercontent.com/PeriHub/PeriLab.jl/main/assets/dlr.jpg" height="200" title="German Aerospace Center">
+
 _Beispiel Kunstoffmolekülkette_
 
 Aufgrund dieser Eigenschaftsbreite werden sie in vielen Bereichen eingesetzt

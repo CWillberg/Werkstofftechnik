@@ -67,7 +67,7 @@ Die Grundannahme ist, dass eine konstante Spannung $\sigma$ über einen definier
 
 [Video 1](https://eng.libretexts.org/Bookshelves/Materials_Science/TLP_Library_II/5%3A_Mechanical_Testing_of_Metals/5.5%3A_Tensile_Testing_-_Practical_Basics)
 
-![bg right fit ](https://upload.wikimedia.org/wikipedia/commons/0/09/Cruciform.png)
+![](https://upload.wikimedia.org/wikipedia/commons/0/09/Cruciform.png)
 
 ---
 
