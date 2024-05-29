@@ -99,7 +99,6 @@ Die Eindringprüfung ist auf allen Werkstoffen anwendbar, die eine eindeutige An
 Kann bei Tageslicht oder im dunkeln durchgeführt (Fluoreszierende Eindringprüfung) werden. Farbe variiert bedarfsabhängig.
 
 
-
 # Verfahren
 
 ## Sichtprüfung
@@ -185,16 +184,6 @@ Schubwellen
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/07/Overview_Seismic_Waves.jpg)
-
-
-## Symmetrische Moden (Longitudinalwellen)
-
-<video controls="constrols" width="600" scr="../../Videos/asym.avi">
-
-
-## Anti-Symmetrische Moden (Transversalwellen)
-
-<video controls="constrols" width="600" scr="../../Videos/asym.avi">
 
 
 ## Schallgeschwindigkeiten
@@ -340,130 +329,6 @@ Luft
 
 ![bg right 70%](https://upload.wikimedia.org/wikipedia/commons/e/e7/Sym_asym_sigma0.27_und_0.34_edited2.svg)
 
-# Structural Health Monitoring
-
-- Überwachung einer Struktur während des Betriebs
-- Verwand mit dem Condition Monitoring
-
-Ziele:
-Wartungskosten senken
-  - weniger Reparaturen
-  - einfachere Prüfung
-  - rechtzeitige Wartung
-- Lastanpassung bei Schäden
-- Lebensdauer verlängern
-- Sicherheit erhöhen
-
----
-
-<details>
-<summary>Stufe 1</summary>
-<div>
-Ein System kann feststellen, dass ein Event passiert ist
-</div>
-</details>
-
-<details>
-<summary>Stufe 2</summary>
-<div>
-Ein System kann feststellen, dass ein Event passiert ist und wo es stattfand
-</div>
-</details>
-
-<details>
-<summary>Stufe 3</summary>
-<div>
-Ein System kann feststellen, dass ein Event passiert ist, wo es stattfand und was stattgefunden hat (Typ des Events)
-</div>
-</details>
-
-<details>
-<summary>Stufe 4</summary>
-<div>
-Ein System kann feststellen, dass ein Event passiert ist, wo es stattfand, was stattgefunden und wie schädlich dieses Event für die Struktur ist
-</div>
-</details>
-
----
-
-## Verfahren
-
-- Modalanalyse
-- Geführte Ultraschallwellen
-- Akkutische Emission
-- Lastpfadanalysen
-  - Beispiel Parallelfeder rechnen
-- Dehnungmessung
-- Modellbasierte Ansätze
-
----
-
-
-## Technische Anwendungen
-
-Brücken
-- Second Penang Bridge - Penang, Malaysia
-  ![](https://www.geosig.com/images/page_image_111.png)
-
----
-Pipelines
-
-![](https://journals.sagepub.com/cms/10.1177/1475921719837718/asset/images/large/10.1177_1475921719837718-fig17.jpeg)
-
---- 
-
-## Technische Anwendungen
-
-Flugzeug
-- Lastpfadanalyse
-- Überwachung von Anbindungen
-- Sicherheit ist nich der Hauptfokus in der Luftfahrt
-
-![bg right fit](https://journals.sagepub.com/cms/10.1177/1475921720919678/asset/images/large/10.1177_1475921720919678-fig5.jpeg)
-
-![bg right fit](https://journals.sagepub.com/cms/10.1177/1475921720919678/asset/images/large/10.1177_1475921720919678-fig4.jpeg)
-
-![bg vertical fit](https://journals.sagepub.com/cms/10.1177/1475921720919678/asset/images/large/10.1177_1475921720919678-fig2.jpeg)
-
----
-
-Windenergie
-
-![](https://onlinelibrary.wiley.com/cms/asset/7f3901c5-5735-4b5f-8ce1-655b4e3fcfe7/mfig001.jpg)
-
----
-
-## Geführte Ultraschallwellen
-
-- Anregung über Piezokomposite
-- Empfang mit Piiezokompositen oder Fibre Bragg Gittern
-
-![bg right fit](https://pub.mdpi-res.com/aerospace/aerospace-10-00430/article_deploy/html/images/aerospace-10-00430-g008.png?1683204034)
-
-![](../../Figures/sensornetzwerke.png)
-
-## Herausforderungen
-- Temperatur
-- Feuchte
-- innere Struktur des Materials
-- Modenkonversion
-- Spannungen in der Struktur
-- Alterung
-
-
----
-## Potentiale
-Beispiel Flugzeug
-- BVI (barely visible impact)
-- Größe ist durch Sichtbarkeit definiert
-  - Leitwerk ist der Schaden größer als am Flügel
-
-- SHM System erlauben kleinere Schäden bei der Auslegung
-
-- Abgeschätzt der [1 - 5% ](https://elib.dlr.de/123946/1/1475921718813279.pdf) Strukturmasse könnte reduziert werden 
-Potentiale
-
----
 
 ## Mikroskopie
 
