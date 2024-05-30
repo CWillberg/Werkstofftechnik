@@ -16,7 +16,7 @@ Aufgrund dieser Eigenschaftsbreite werden sie in vielen Bereichen eingesetzt
 - Leiterplatten
 - uvm.
 
-Diese Polymere könnne aus Naturstoffen oder rein synthisch gewonnen werden.
+Diese Polymere können aus Naturstoffen oder rein synthisch gewonnen werden.
 
 !!! info "Umweltproblem"
     Nach _Roland Geyer et al.: Production, use, and fate of all plastics ever made. In: Science Advances. Band 3, 2017, S. e1700782, doi:10.1126/sciadv.1700782_ werden über 70% der Kunststoffe in Deponien gelagert und nur 9% recycled. Der Rest wird verbrannt
@@ -102,7 +102,7 @@ Wie gut dieses Entflechten geht ist durch die Zugabe von Schwefel bei der Vulkan
     Bei sehr tiefen Temperaturen können Elastomere glashart gefrieren. Das war die Ursache von der Challanger Katastrophe, da dort ein Dichtring außerhalb des zulässigen Temperaturbereichs angewendet wurde und nicht aufgrund der Verglasung nicht mehr abdichtete.
 
 **Vulkanisation**
-Beschreibt den Herstellungsprozess, um thermoplastischen Naturkautschuk oder Synthesekautschuk in einen Elastomer zu wandeln. Es werden die kovalenten Bindungen (rote Punkte) zwischen den Molekülketten erzeugt. Hierzu werden Schwefel oder schwefelgebenden Stoffe im Prozess genutzt. Diese bilden die kovalenten Bindungen in Form von Schwefelbrücken. Je nach Anzahl der Schwefelbrücken werden die Eigenschaften des Elastomers beeinflusst. Es entsteht ein dauerelastischer Werkstoff. Bei Alterung werden die Schweflbrücken durch Sauerstoffbrücken ersetzt und der Elastomer wird brüchig.
+Beschreibt den Herstellungsprozess, um thermoplastischen Naturkautschuk oder Synthesekautschuk in einen Elastomer zu wandeln. Es werden die kovalenten Bindungen (rote Punkte) zwischen den Molekülketten erzeugt. Hierzu werden Schwefel oder schwefelgebenden Stoffe im Prozess genutzt. Diese bilden die kovalenten Bindungen in Form von Schwefelbrücken. Je nach Anzahl der Schwefelbrücken werden die Eigenschaften des Elastomers beeinflusst. Es entsteht ein dauerelastischer Werkstoff. Bei Alterung werden die Schwefelbrücken durch Sauerstoffbrücken ersetzt und der Elastomer wird brüchig.
 
 
 ## Additive

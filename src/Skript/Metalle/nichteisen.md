@@ -5,7 +5,7 @@
 
 [Übersicht](https://www.maschinenbau-wissen.de/skript3/werkstofftechnik/aluminium) über die Eigenschaften, Herstellung, etc.
 
-Die spezfische [Festigkeit](@ref "Festigkeit und Streckgrenze") von Aluminium und Stahl liegt sehr nah beeinander.
+Die spezifische [Festigkeit](@ref "Festigkeit und Streckgrenze") von Aluminium und Stahl liegt sehr nah beeinander.
 
 Vorteile:
 - Geringe Dichte, deshalb bedeutend geringeres Gewicht als vergleichbare Bauteile und Konstruktionen aus Stahl.
