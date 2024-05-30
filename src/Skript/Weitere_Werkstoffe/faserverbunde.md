@@ -1,4 +1,4 @@
-# Faserverbunde
+# Verbundwerkstoffe
 
 Figure is based on this paper [Figure 2](https://doi.org/10.3390/jcs8040126).
 
@@ -32,3 +32,29 @@ graph TD;
     Kurzfasern_aligned-->Limit_2["L < Bauteilgröße"];
     Partikel-->Limit_2["L < Bauteilgröße"];
 ```
+
+## Anwendungen
+
+![](../../Figures/FaserverbundBeispiele.png)
+
+| Gebiet  | Motivation | 
+|---|---|
+| Luft- und Raumfahrt  | Festigkeits/Steifigkeits – Gewichtsverhältnis, Schadens- und  Korrosionsstoleranz, Wartbarkeit / Reparierbarkeit | 
+| Schifffahrt  | Salzwasser; Schlagschäden, Lange Lebendauer | 
+| Bauwesen  | Widerstand gegen Umwelteinflüsse und Korrosion; Langlebigkeit | 
+|Landtransportsysteme | Kosten, Einfache Fertigbarkeit | 
+
+## Komponenten von Faserkunstoffverbunde 
+**Matrix – bindende Komponente**
+- Formgebend
+- Schutz und Stabilisierung der Fasern
+- Spannungen an die Fasern übertragen
+
+**Faser – verstärkende Komponente**
+- Lasttragend da hohe Steifigkeit und/oder - Festigkeit bei geringem Gewicht
+- Begrenzte thermische Dehnung
+
+**Weitere Bestandteile (optional)**
+- Faserbeschichtungen
+- Füllstoffe
+- Beimischung anderer Fasertypen

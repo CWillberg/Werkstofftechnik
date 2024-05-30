@@ -96,5 +96,5 @@ $MAC=\frac{|\mathbf{\hat{x}}_i\mathbf{\hat{x}}_{i, ref}|^2}{(\mathbf{\hat{x}}_i\
 
 
 ---
-![](./Figures/sensornetzwerke.png)
-[Schadensinteraktion](./Videos/flachbodenbohrung.avi)
+![](../../Figures/sensornetzwerke.png)
+
