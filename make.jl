@@ -40,6 +40,7 @@ makedocs(
                 "Nicht Eisen Metalle"=>"Skript/Metalle/nichteisen.md"],
             "Weitere Werkstoffe"=>Any[
                 "Übersicht"=>"Skript/Weitere_Werkstoffe/ueberblick.md",
+                "Glas"=>"Skript/Weitere_Werkstoffe/glas.md",
                 "Keramiken"=>"Skript/Weitere_Werkstoffe/keramiken.md",
                 "Kunststoffe"=>"Skript/Weitere_Werkstoffe/kunststoffe.md",
                 "Verbundwerkstoffe"=>"Skript/Weitere_Werkstoffe/faserverbunde.md",
