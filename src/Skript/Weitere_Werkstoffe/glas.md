@@ -1,12 +1,12 @@
 # Gläser
 
-Glase ist ein eingefrorender Zustand einer unterkühlten Flüssigkeit. Sie bestehen aus einer weitgehend ungeordneten Struktur. Diese statistisch verteilte Struktur sorgt in der Regel für isotropes Verhalten.
+Glas ist ein eingefrorender Zustand einer unterkühlten Flüssigkeit. Sie bestehen aus einer weitgehend ungeordneten Struktur. Diese statistisch verteilte Struktur sorgt in der Regel für isotropes Verhalten.
 
 Kristalle ändern ihre Eigenchaften an der Schmelztemperatur sprunghaft. Bei Gläsern ist dies nicht der Fall. Beim Kristall tritt eine Phasenänderung ein beim Glas nicht.
 
-Der Transformationsbereich ändert die Eigeschaften erheblich. Unterhalb von $\text{T}_g$ ist die Viskosität so hoch, dass keine Umordnung mehr stattfindet. Vergleichbar mit den Kunststoffen.
+Der Transformationsbereich ändert die Eigenschaften erheblich. Unterhalb von $\text{T}_g$ ist die Viskosität so hoch, dass keine Umordnung mehr stattfindet. Vergleichbar mit den Kunststoffen.
 
-![](../../Figures/Eigeschaft-Temperaturkurve-Glas.svg)
+![](../../Figures/n-Temperaturkurve-Glas.svg)
 
 
 Das Glas verhält sich unterhalb $\text{T}_g$ wie ein Festkörper, oberhalb wie eine Flüssigkeit. Der Prozess ist reversibel.
