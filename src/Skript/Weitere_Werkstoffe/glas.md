@@ -6,7 +6,7 @@ Kristalle ändern ihre Eigenchaften an der Schmelztemperatur sprunghaft. Bei Gl�
 
 Der Transformationsbereich ändert die Eigenschaften erheblich. Unterhalb von $\text{T}_g$ ist die Viskosität so hoch, dass keine Umordnung mehr stattfindet. Vergleichbar mit den Kunststoffen.
 
-![](../../Figures/Eigenschaften-Temperaturkurve-Glas.svg)
+![](../../Figures/Eigenschaft-Temperaturkurve-Glas.svg)
 
 
 Das Glas verhält sich unterhalb $\text{T}_g$ wie ein Festkörper, oberhalb wie eine Flüssigkeit. Der Prozess ist reversibel.
