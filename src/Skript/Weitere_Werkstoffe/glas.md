@@ -15,7 +15,8 @@ Das Glas verhält sich unterhalb $\text{T}_g$ wie ein Festkörper, oberhalb wie 
     Daher sind Gläser in aller Regel gut recyclebar.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/62/Kalk-Natron-Glas_2D.svg)
-_Beispiel der Struktur eines Kalk_Natron Glas_
+
+_Beispiel der Struktur eines Kalk Natron Glas_
 
 
 Eigenschaften
