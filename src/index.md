@@ -24,6 +24,5 @@
 - "Smart" Materials
     - Piezokeramiken
     - Formgedächtnislegierung
-    - 
 - Nachhaltigkeit
 - Datenanalyse
