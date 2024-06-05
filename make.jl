@@ -63,6 +63,7 @@ makedocs(
             "Elektrisch"=>"Formelsammlung/elektrisch.md",
             "Sonstige"=>"Formelsammlung/sonstige.md",
         ],
+        "Aufgaben"=>"Uebungen/uebungen.md",
         "Quellen"=>"lib/references.md",
     ]
 )
