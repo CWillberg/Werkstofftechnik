@@ -11,7 +11,7 @@ Aufgabe:
 
 ## Wärme
 
-Ein Bauteil hat die Temperatur T. Welche Effekte reduzieren diese Effekte?
+Ein Bauteil hat die Temperatur $T$. Welche Effekte reduzieren diese Effekte?
 
 - Was für Parameter müssen berücksichtigt werden?
 - Wie sieht das Modell zur Abkühlung aus?
@@ -29,5 +29,8 @@ Auswählen und Begründen.
 - Korrosives Medium, geringe mechanische Belastung, hohe thermische Belastung
 - hohe mechanische Belastung, Raumtemperatur, Innenraum
 - Isolator, geringe thermische Belastung
+
+## Bezeichnungen
+- was ist die 
 
 
