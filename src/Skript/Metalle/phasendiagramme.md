@@ -1,5 +1,5 @@
 # Phasendiagamme
-
+https://studyflix.de/chemie/eisen-kohlenstoff-diagramm-1539
 
 ## Eisen Kohlenstoff Diagramm
 Phasendiagramme stellen dar, wie sich die Mikrostruktur eines Werkstoffs oder Werkstoffgemischs verhält. Am Beispiel des Eisen-Kohlenstoffdiagramm läss sich dies verdeutlichen. Links sehen wir das Verhalten von reinem Eisen. Hier kann man erkennen, dass Eisen von der Schmelze (oberer Rand) bis zu Raumtemperatur mehrere Kristallzustände durchläuft. Diese sind für den jeweiligen Temperaturbereich energetisch günstig.

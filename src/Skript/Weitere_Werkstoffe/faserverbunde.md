@@ -96,3 +96,23 @@ Titan-Legierung | | | 108000|
 
 ## Faservolumenanteil
 $\rho = \phi\rho_f+(1-\phi)\rho_m$
+- Prozessabhängig
+
+![](../../Figures/quadratisch.svg)
+
+![](../../Figures/hexagonal.svg)
+
+![bg right 80% ](../../Figures/faser_mikrostruktur.png)
+
+---
+
+$A_{Quadrat} = (2R)^2 = 4\cdot R^2$
+$A_{Kreis} = \pi R^2$
+
+$\rho_{f,max}=\frac{A_{Kreise}}{A_{Quadrat}}=\frac{\pi}{4}$
+
+quadratische Packung
+$\phi_{max}=\frac{\pi}{4}\approx 0.79$
+
+hexagonale Packung
+$\phi_{max}=\frac{\pi}{\sqrt{12}}\approx 0.91$
