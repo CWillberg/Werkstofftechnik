@@ -116,3 +116,51 @@ $\phi_{max}=\frac{\pi}{4}\approx 0.79$
 
 hexagonale Packung
 $\phi_{max}=\frac{\pi}{\sqrt{12}}\approx 0.91$
+
+## Glasfasern
+
+**Vorteile**
+- hohe Längs-Zug- sowie die hohe Längs-Druckfestigkeit
+- Eine hohe Bruchdehnung
+- aufgrund der niedrigen Fasersteifigkeit gute Drapierbarkeit, auch um enge Radien
+- die vollkommene Unbrennbarkeit
+- die sehr geringe Feuchtigkeitsaufnahme
+- die gute chemische und mikrobiologische Widerstandsfähigkeit
+- geringe Kosten
+---
+
+**Nachteile**
+- der für viele Strukturbauteile zu niedrige Elastizitätsmodul der Glasfaser
+- Glasfasern sind unverrottbar (Vor- und Nachteil)
+
+---
+
+## Kohlefasern
+**Vorteil**
+- C-Fasern sind sehr leicht, ihre Dichte ($𝜌_𝑓 ≈ 1.8 g/cm^33$) liegt deutlich unter derjenigen von Glasfasern ($𝜌_𝑓 ≈ 2.54 g/cm^3$). 
+- extrem hohe Festigkeiten und sehr hohe Elastizitätsmoduln
+- beide mechanischen Größen sind zudem in weiten Bereichen bei der Herstellung der Fasern einstellbar
+- Exzellente Ermüdungsfestigkeit
+
+---
+
+**Nachteile**
+- Geringere Druckfestigkeit in Faserrichtung
+- Schlechtere Drapierbarkeit
+- Kosten
+- Elastizitätsmoduln in Faserlängs- und Querrichtung unterscheiden sich um eine Größenordnung (Vor- und Nachteil)
+
+
+## Lagenaufbau
+
+- Unidirektional (UD) $[0°]_i$; $[0°]_{10}$;
+
+- quasi isotrop $[0°\,+45°\,-45°\,90°]_s$
+
+- Biaxiales Gelege $[+60°\,-60°]$, $[+45°\,-45°]_s$
+
+- Triaxiales Gelege $[+60°\,-60°\,0°]$
+
+- Torsion  $[+45°\,-45°]$
+
+- beliebig  $[0°\,10°\,45°\,90°\,0°]_{22}$
