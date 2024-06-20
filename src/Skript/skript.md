@@ -3,7 +3,7 @@
 
 
 ## Anmerkungen
-Das Skript basiert auf Arbeiten von Prof. Dr.-Ing. Jürgen Härberle meinem Vorgänger, welcher mir netterweise seine Aufzeichnungen bereitgestellt hat.
+Das Skript basiert auf in Teilen auf Arbeiten von Prof. Dr.-Ing. Jürgen Härberle meinem Vorgänger, welcher mir netterweise seine Aufzeichnungen bereitgestellt hat.
 
 Folgende Bücher wurden verwendet
 

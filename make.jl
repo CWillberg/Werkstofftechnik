@@ -64,6 +64,7 @@ makedocs(
             "Sonstige"=>"Formelsammlung/sonstige.md",
             "Fasererbunde"=>"Formelsammlung/faserverbunde.md"
         ],
+        "Normen"=>"Skript/normen.md",
         "Aufgaben"=>"Skript/Uebungen/uebungen.md",
         "Quellen"=>"lib/references.md",
     ]

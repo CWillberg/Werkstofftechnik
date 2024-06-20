@@ -32,16 +32,49 @@ Im Folgenden sollen einfache Charakterisierungsbeispiele erläutert werden und w
 
 
 ## Festigkeit
+Die Festigkeit eines Werkstoffes beschreibt die Beanspruchbarkeit durch mechanische Belastungen, bevor es zu einem Versagen kommt. Wird als mechanische Spannung beschrieben und ist abhängig vom Belastungszustand (Zug, Druck, Schub, etc.) und vom Werkstoff. 
 
-## Eigenfrequenzen
+Unterschieden wird zwischen quasi-statischer Festigkeit und dynamischer Festigkeit. Quasi-statische Festigkeit wird beispielsweise durch Zug- und Druckversuche bestimmt.
 
-## Wöhlerversuch
-Der Wöhlerversuch wird durchgeführt, um das Ermüdungsverhalten von Materialien zu bestimmen. Es gibt mehrere Schwierigkeiten. 
-Herausforderungen
-- Erreichen der Zyklenzahl
-- Vermeiden eines thermischen Einflusses, bspw. bei Kunststoffen oder anderen viskoelastischen Materialien
-
-
-## Grenzschwingspielzahl
+Dynamische Festigkeit ist beispielsweise die Dauerfestigkeit. Diese wird durch Wöhlerversuche bestimmt.
+Materialien werden mit einer maximalen Amplitude schwingend belastet. Teilweise mit einer konstanten überlagerten Belastung. Bestimmt wird die Zyklenzahl bis Versagen. Thermischer Einfluss, bspw. bei Kunststoffen oder anderen viskoelastischen Materialien sollte vermieden werden.
 
 ## Spannungsintensitätsfaktoren
+Beschreibt die Intensität eines Spannungsfeldes in der Nähe einer Rissspitze Wird auch als Bruchzähigkeit oder Risszähigkeit bezeichnet.
+Für einen Mode I Riss kann der Wert wie folgt beschrieben werden
+
+$K_I=\sigma\sqrt{\pi a}f$
+
+$\sigma$ ist die Spannung
+
+$a$ ist die Risslänge
+
+$f$ ist ein Korrekturwert
+
+
+## Eigenfrequenzen
+Eigenfrequenzen beschreiben die Frequenzen in denen schwacht gedämpfte Bauteile in Resonanz schwingen. Diese Schwingungen werden Eigenformen genannt und zeichnen sich durch große Amplituden aus.
+Für einen 1D Problem ergibt sich.
+
+$f = \frac{1}{2\pi}\sqrt{\frac{c}{m}}$
+
+$c$ ist die Steifigkeit und besteht aus geometrischen und materiellen Größen. $m$ ist die Masse, welche von der Dichte und dem Volumen abhängt. Für allgemeine mehrdimensionale Probleme können die Eigenschfrequenzen viel folgt bestimmt werden.
+
+$(\mathbf{K}-\omega^2\mathbf{M})\hat{\mathbf{x}}=\mathbf{0}$
+
+Das entspricht der homogenen Lösung der Schwingungsdifferentialgleichung.
+
+$\mathbf{K}$ ist die Steifigkeitsmatrix
+
+$\mathbf{M}$ ist die Massenmatrix
+
+$\hat{\mathbf{x}}$ ist der Eigenvektor
+
+und
+
+$\omega=2\pi f$ ist die Eigenkreisfrequenz
+
+**Bestimmung von Eigenfrequenzen und Eigenformen**
+
+Üblicherweise werden die Eigenfrequenzen und Eigenformen mit Hilfe einer Modalanalyse bestimmt.
+
