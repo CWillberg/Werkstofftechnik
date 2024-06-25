@@ -9,7 +9,7 @@ Es werden dort [Mikrostabtragwerke](https://en.wikipedia.org/wiki/Metamaterial) 
 
 # "Smart Materials" oder Intelligente Materialien
 ## Piezoelektrische Materialien
-    - Deformation aufgrund von elektrischer Spannung und vice versa
+- Deformation aufgrund von elektrischer Spannung und vice versa
 
 
 ## Formgedächtnismaterialien
