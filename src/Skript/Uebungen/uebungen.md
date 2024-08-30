@@ -52,4 +52,29 @@ Auswählen und Begründen.
 ## Bezeichnungen
 - was ist die 
 
+## Massenanteil und Atomateil
+
+1 kg Legierung 25% Ni - 75% Cu.
+
+Wieviel Masse hat Cu und Ni für den Massenanteil und den Atomanteil?
+
+## Lösung
+**Massenanteil**
+
+$m_{Ni}=0.75\cdot 1kg = 0.75 kg$
+$m_{Cu}=0.25\cdot 1kg = 0.25 kg$
+
+**Atomanteil**
+
+$A_{Cu}= 63.54 u$ - Atomare Masseneinheit $u = 1.66\cdot 10^{-27}kg$
+$A_{Ni}= 58.69 u$
+$m = n_{Cu}A_{Cu}+n_{Ni}A_{Ni}$
+$n_{Cu} = 0.25n$, $n_{Ni} = 0.75n$
+$m=(0.25A_{Cu}+0.75A_{Ni})n$
+$n = \frac{m}{0.25A_{Cu}+0.75A_{Ni}}=1.00565E+25$
+$m_{Cu}=n_{Cu}A_{Cu}=0.2449kg$
+$m_{Ni}=n_{Ni}A_{Ni}=0.7551kg$
+
+
+
 
