@@ -6,9 +6,9 @@ Prinzipiell können die Wärmebehandlungsverfahren nach der Art des Abkühlens i
 1. Glühverfahren
 2. Härteverfahren
 
-Grundsätzlich sind diese Verfahren für viele Materialien einsetzbar. Exemplarisch, da am weitesten verbreitet, werden die Wärmebehandlungen am Beispiel des [Eisen Kohlenstoff Diagramm](@ref "Eisen Kohlenstoff Diagramm") erklärt.
+Grundsätzlich sind diese Verfahren für viele Materialien einsetzbar. Exemplarisch, da am weitesten verbreitet, werden die Wärmebehandlungen am Beispiel des [Eisen Kohlenstoff Diagramm](@ref "Eisen Kohlenstoff Diagramm (EKD)") erklärt.
 
-Glühen ist das Erwärmen eines Werkstücks auf eine bestimmte Temperatur mit nachfolgendem, in der Regel langsamen Abkühlen, so dass der Werkstoffzustand bei Raumtemperatur dem Gleichgewichtszustand nahe kommt. Die erreichbaren Eigenschaften ergeben sich aus den im [Eisen Kohlenstoff Diagramm](@ref "Eisen Kohlenstoff Diagramm") auftretenden Gefügearten.
+Glühen ist das Erwärmen eines Werkstücks auf eine bestimmte Temperatur mit nachfolgendem, in der Regel langsamen Abkühlen, so dass der Werkstoffzustand bei Raumtemperatur dem Gleichgewichtszustand nahe kommt. Die erreichbaren Eigenschaften ergeben sich aus den im [Eisen Kohlenstoff Diagramm](@ref "Eisen Kohlenstoff Diagramm (EKD)") auftretenden Gefügearten.
 
 Bei der zweiten Gruppe, den Härteverfahren, erfolgt das Abkühlen von einer Temperatur oberhalb der Umwandlungslinie ($\alpha$ / $\gamma$ - Umwandlungslinie) mit einer Geschwindigkeit, die größer ist als die kritische („Abschrecken“), um durch Umwandlung des Austenits in Martensit (gegebenenfalls auch Bai-nit) ein Gefüge zu erhalten, das einem Ungleichgewichtszustand entspricht ([ZTU-Diagramme](@ref "ZTU-Schaubilder")).
 
