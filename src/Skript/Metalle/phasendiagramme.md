@@ -266,7 +266,7 @@ Ausscheidung aus dem Ferrit (Linie PQ)
 
 ## Kristallstruktur
 
-![bg right 80%](../../Figures/Zementit.png)
+![](../../Figures/Zementit.png)
 
 - orthorhombischen Elementarzelle 
   -  zwölf Eisen- und vier Kohlenstoffatome
@@ -294,7 +294,7 @@ Ausscheidung aus dem Ferrit (Linie PQ)
 
 ---
 
-![bg right fit](../assets/Figures/Technische%20Werkstoffe%20des%20Systems%20Eisen-Eisencarbid_Seidel.png)
+![](../../Figures/Technische_Werkstoffe_des_Systems_Eisen-Eisencarbid_Seidel.png)
 
 
 ---
