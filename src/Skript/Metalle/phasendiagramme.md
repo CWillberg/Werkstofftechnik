@@ -1,10 +1,6 @@
 # Zustandsdiagramme
 https://studyflix.de/chemie/eisen-kohlenstoff-diagramm-1539
 
-
-
-# Zustandsdiagramme
-
 - auch Phasendiagramm -phase diagram-
 - stellt den Zustand von Legierungen und Stoffgemischen in Abhängigkeit von der chemischen Zusammensetzung, Temperatur und ggf. dem Druck dar
 - Zustand meint die auftretenden Phasen (alle festen, flüssige, gasförmige)
@@ -46,11 +42,6 @@ Zustandsdiagramme sind Gleichgewichtsdiagramme. Sie haben nur Gültigkeit bei ei
 
 
 ---
-
-# Zustandsdiagramme (ZSD)
-
----
-
 
 - Die Phasen bzw. Phasengrenzlinien können als ein Zustandsdiagramm dargestellt werden
 - Die Anzahl der miteinander im Gleichgewicht stehenden Phasen ist gesetzmäßig verknüpft mit der Zahl der an der Legierungsbildung beteiligten Komponenten und der Zahl der Freiheitsgrade über die Gibbsche Phasenregel
@@ -155,7 +146,7 @@ Sonderfall:
 
 ---
 
-# Eisen-Kohlenstoffdiagramm (EKD)
+# Eisen Kohlenstoff Diagramm (EKD)
 
 - wichtigstes ZSD
 - Eisenist der wichtigste Werkstoff im Maschinenbau. 
