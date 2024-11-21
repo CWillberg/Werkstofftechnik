@@ -133,7 +133,7 @@ Emissiongrad $\epsilon_{Emissionsgrad}$ liegt zwischen 0 (perfekter Spiegel) und
 # Spezielle Temperaturen
 
 ## Phasenübergangstemperatur
-Temperatur wo ein Phasenübergang in einer Kristallstruktur stattfindet (siehe [Zustandsdiagramme](@ref "Zustandsdiagramme")). Wird maßgeblich durch beigesetzte Stoffe beeinflusst (siehe [Legierungen](@ref "Legierungen"))
+Temperatur wo ein Phasenübergang in einer Kristallstruktur stattfindet (siehe [Zustandsdiagramme](@ref "Zustandsdiagramme (ZSD)")). Wird maßgeblich durch beigesetzte Stoffe beeinflusst (siehe [Legierungen](@ref "Legierungen"))
 
 ## Schmelztemperatur
 Als Schmelztemperatur bezeichnet man die Temperatur, bei der ein Stoff vom festen in den flüssigen Aggregatzustand übergeht. 
