@@ -6,7 +6,7 @@ Die elektrischen und magnetischen Eigeschaften hängen in der Regel eng zusammen
 
 			
 
-[**Weisssche Bezirke**](@ref "Weisssche Bezirke") Die spezifische Wärmekapazität ist das Verhältnis der ihm zugeführten Wärme zu der damit bewirkten Temperaturerhöhung.
+[**Weisssche Bezirke**](@ref "Weisssche Bezirke") 
 
 
 ## Permittivität

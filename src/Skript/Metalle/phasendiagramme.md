@@ -1,4 +1,4 @@
-# Zustandsdiagramme
+# Zustandsdiagramme (ZSD)
 https://studyflix.de/chemie/eisen-kohlenstoff-diagramm-1539
 
 - auch Phasendiagramm -phase diagram-
@@ -21,24 +21,16 @@ Zustandsdiagramme sind Gleichgewichtsdiagramme. Sie haben nur Gültigkeit bei ei
 
 ## Löslichkeiten
 
-<details>
-<summary>Unlöslich</summary>
-<div>
+_Unlöslich_
 - zu große Unterschiede bei den Atomdurchmessern
 - Kristallgitter weichen voneinander ab
 - Komponenten sind chemisch sehr unterschiedlich
-</div>
-</details>
 
-
-<details>
-<summary>Löslich</summary>
-<div>
+_Löslich_
 - kaum Unterschiede bei den Atomdurchmessern
 - Kristallgitter sind identisch
 - Komponenten sind chemisch sehr nah beieinander
-</div>
-</details>
+
 
 
 ---
@@ -65,12 +57,18 @@ Damit ergibt sich für die Anwendung dieser Gesetzmäßigkeiten bei der Abkühlu
 F = 0		ein Haltepunkt und
 F = 1		ein Knickpunkt.
 
+F beschreibt die möglichen Bewegungsrichtungen, damit sich an dem Zustand nichts ändern (in kleinem Maße).
+
+Beispiel: innerhalb einer Phasenfläche ist F=2. D.h. ich kann mich in 2 Dimensionen bewegen. An der Phasengrenzlinie ist F=1. Ich kann mich auf dieser Linie bewegen.
+
 ---
 
-
+# Binäre Systeme
+## Unlöslichkeit
 ![](../../Figures/Zustandsdiagramm_Eisen_Blei.png)
 
 ---
+## Vollständige Löslichkeit
 
 ![](../../Figures/Zustandsdiagramm_Kupfer_Nickel.png)
 
@@ -79,6 +77,36 @@ F = 1		ein Knickpunkt.
 ![](../../Figures/binaeresSystem.png)
 
 ---
+
+
+
+![](../../Figures/Konstituionelle_abkuehlung.png)
+
+
+## Hebelgesetz
+
+- In Punkt 2 hat die Schmelze einen kleineren Nickelgehalt als der $\alpha$-MK
+- D.h. die Konzentration im Mischkristall muss steigen, damit die Zahl der Nickelatome plastischer
+
+!!! info "Zusammensetzung" Schmelze und Mischkristall müssen nicht die gleiche chemische Zusammensetzung haben
+
+$\frac{m_s}{m_{\alpha}}=\frac{c_{\alpha}-c_{L}}{c_{L}-c_{S}}$
+
+---
+## Rechenbeispiel
+
+-> Annahme Konzentrationen in Punkt 2
+
+$c_S=20\%$, $c_{\alpha}=40\%$, $c_L=25\%$
+
+---
+## Lösung
+
+$\frac{m_s}{m_{\alpha}}={c_{\alpha}-c_{L}}{c_{L}-c_{S}}=\frac{40\%-25\%}{25\%-20\%}=\frac{15}{5}=\frac{3}{1}$
+- im Punkt 2 liegt 3 mal soviel Schmelze wie Mischkristall vor
+
+
+
 
 ## Eutektischer Entmischung
 
