@@ -62,7 +62,7 @@ makedocs(
             "Thermodynamik"=>"Formelsammlung/thermodynamik.md",
             "Elektrisch"=>"Formelsammlung/elektrisch.md",
             "Sonstige"=>"Formelsammlung/sonstige.md",
-            "Fasererbunde"=>"Formelsammlung/faserverbunde.md"
+            "Faserverbunde"=>"Formelsammlung/faserverbunde.md"
         ],
         "Normen"=>"Skript/normen.md",
         "Aufgaben"=>"Skript/Uebungen/uebungen.md",
