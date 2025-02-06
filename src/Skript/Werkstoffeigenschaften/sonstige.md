@@ -5,5 +5,6 @@ Hier sind einige Eigenschaften die aufgeführt die nicht weiter detailiert werde
 - Toxidität
 - Optische Eigenschaften
 - Chemische Reaktionsfähigkeit
-- Fertigbarkeitseigschaften
+- Fertigbarkeit
+- Kosten
 

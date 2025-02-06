@@ -1,28 +1,35 @@
 # Vorlesung Werkstofftechnik
 
-- Struktur von Werkstoffen
-    - Atomgitter
-    - Bindungsarten
-    - Kristalle
-    - Gitterdefekte
-- Phasendiagramme
-    - Eisen Kohlenstoff Diagramme
-    - Legierungen
-    - Wärmebehandlung
-- Werkstoffeigenschaften
-    - Überblick
-    - Mechanische Eigenschaften
-    - Thermische Eigenschaften
-    - Elektro-Magnetische Eigenschaften
-    - Sonstiges
-- Prüfung von Werkstoffen
-    - Charakterisierung von Werkstoffen
-    - Zerstörende Prüfung
-    - Zerstörungsfreie Prüfung
-    - Datenanalyse
-- Korrosion, Verschleiß, Ermüdung
-- "Smart" Materials
-    - Piezokeramiken
-    - Formgedächtnislegierung
-- Nachhaltigkeit
-- Datenanalyse
+- [Struktur von Werkstoffen](./Skript/svw/struktur_von_werkstoffen.md)
+    - [Bindungsarten](./Skript/svw/bindungsarten.md)
+    - [Kristalle](./Skript/svw/kristalle.md)
+    - [Gitterdefekte](./Skript/svw/gitterbaudefekte.md)
+    - [Plastizität](./Skript/svw/plastizitaet.md)
+- [Metalle](./Skript/Metalle/metalle.md)
+    - [Legierungen](./Skript/Metalle/legierungen.md)
+    - [Zustandsdiagramme](./Skript/Metalle/phasendiagramme.md)
+    - [Eisenwerkstoffe](./Skript/Metalle/eisenwerkstoffe.md)
+    - [Nicht-Eisen Werkstoffe](./Skript/Metalle/nichteisen.md)
+    - [Korrosion](./Skript/Metalle//korrosion.md)
+    - [Wärmebehandlung](./Skript/Metalle/waermebehandlung.md)
+- [Werkstoffeigenschaften](./Skript/Werkstoffeigenschaften/ueberblick.md)
+    - [Mechanische Eigenschaften](./Skript/Werkstoffeigenschaften/mechanik.md)
+    - [Thermische Eigenschaften](./Skript/Werkstoffeigenschaften/thermisch.md)
+    - [Elektro-Magnetische Eigenschaften](./Skript/Werkstoffeigenschaften/elektromagnetisch.md)
+    - [Ökologische Eigenschafte](./Skript/Werkstoffeigenschaften/oekologisch.md)
+    - [Sonstiges](./Skript/Werkstoffeigenschaften/sonstige.md)
+- [Prüfung von Werkstoffen](./Skript/Werkstoffpruefung/pruefung.md)
+    - [Charakterisierung von Werkstoffen](./Skript/Werkstoffpruefung/charakterisierung.md)
+    - [Zerstörende Prüfung](./Skript/Werkstoffpruefung/zp.md)
+    - [Zerstörungsfreie Prüfung](./Skript/Werkstoffpruefung/zfp.md)
+    - [Structural Health Monitoring](./Skript/Werkstoffpruefung/SHM.md)
+- [Weitere Werkstoffe](./Skript/Weitere_Werkstoffe/ueberblick.md)
+    - [Glas](./Skript/Weitere_Werkstoffe/glas.md)
+    - [Keramiken](./Skript/Weitere_Werkstoffe/keramiken.md)
+    - [Kunststoffe](./Skript/Weitere_Werkstoffe/kunststoffe.md)
+    - [Verbundwerkstoffe](./Skript/Weitere_Werkstoffe/faserverbunde.md)
+    - [Sonstige](./Skript/Weitere_Werkstoffe/sonderfaelle.md)
+- [Versagen](./Skript/Versagen/uebersicht.md)
+    - [Verschleiß](./Skript/Versagen/verschleiss.md)
+    - [Ermüdung](./Skript/Versagen/ermuedung.md)
+    - [Bruch](./Skript/Versagen/bruch.md)

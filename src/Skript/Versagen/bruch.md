@@ -19,4 +19,9 @@ __Makroskopische Betrachtung__
 [__Mikroskopische Betrachtung__](https://de.wikipedia.org/wiki/Bruchmechanik)
 
 - Ein Gleitbruch erfolgt unter plastischer Verformung und in der Regel unter Schubspannungen nach anfänglicher Hohlraumbildung und dem Zusammenwachsen der Hohlräume.
-- Ein Spaltbruch erfolgt mit oder ohne plastische Verformung quer zur Hauptnormalspannung (bei Metallen entlang von Kristallebenen geringer Packungsdichte und meist transkristallin).
+- Ein Sprödbruch (Trennbruch) erfolgt mit oder ohne plastische Verformung quer zur Hauptnormalspannung (bei Metallen entlang von Kristallebenen geringer Packungsdichte und meist transkristallin).
+
+Bild 2-6 S.29
+
+
+

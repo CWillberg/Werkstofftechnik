@@ -45,3 +45,20 @@
 
 Beispiel einer Ermüdungsbruchs
 ![](https://upload.wikimedia.org/wikipedia/commons/9/96/Pedalarm_Bruch.jpg)
+
+
+## Ort der Rissentstehung
+Der Ort der Rissentstehung ist relevant, da er die Lebensdauer bis Rissentstehung und die Lebensdauer während Risswachstum definiert.
+Bild 2-4 S. 27
+
+
+Stabiles und instabiles Risswachstum
+
+## Rissflächen
+
+Rastmarken
+Gewaltbruch
+Scherlippen
+S.30
+2-45
+S.32

@@ -33,11 +33,12 @@ makedocs(
             ],
             "Metalle"=>Any[
                 "Übersicht"=>"Skript/Metalle/metalle.md",
-                "Phasendiagramme"=>"Skript/Metalle/phasendiagramme.md",
                 "Legierungen"=>"Skript/Metalle/legierungen.md",
+                "Zustandsdiagramme"=>"Skript/Metalle/phasendiagramme.md",
+                "Eisenwerkstoffe"=>"Skript/Metalle/eisenwerkstoffe.md",
+                "Nicht-Eisen Metalle"=>"Skript/Metalle/nichteisen.md",
                 "Korrosion"=>"Skript/Metalle/korrosion.md",
-                "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md",
-                "Nicht Eisen Metalle"=>"Skript/Metalle/nichteisen.md"],
+                "Wärmebehandlung"=>"Skript/Metalle/waermebehandlung.md"],
             "Weitere Werkstoffe"=>Any[
                 "Übersicht"=>"Skript/Weitere_Werkstoffe/ueberblick.md",
                 "Glas"=>"Skript/Weitere_Werkstoffe/glas.md",
@@ -54,7 +55,8 @@ makedocs(
                 "Übersicht"=>"Skript/Werkstoffpruefung/pruefung.md",
                 "Charakterisierung von Werkstoffen"=>"Skript/Werkstoffpruefung/charakterisierung.md",
                 "Zerstörende Prüfung"=>"Skript/Werkstoffpruefung/zp.md",
-                "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md"]
+                "Zerstörungsfreie Prüfung"=>"Skript/Werkstoffpruefung/zfp.md",
+                "Structural Health Monitoring"=>"Skript/Werkstoffpruefung/SHM.md"]
         ],
         "Formelsammlung"=>Any[
             "Übersicht"=>"Formelsammlung/formelsammlung.md",
@@ -62,7 +64,8 @@ makedocs(
             "Thermodynamik"=>"Formelsammlung/thermodynamik.md",
             "Elektrisch"=>"Formelsammlung/elektrisch.md",
             "Sonstige"=>"Formelsammlung/sonstige.md",
-            "Faserverbunde"=>"Formelsammlung/faserverbunde.md"
+            "Faserverbunde"=>"Formelsammlung/faserverbunde.md",
+            "Bruchmechanik"=>"Formelsammlung/bruchmechanik.md"
         ],
         "Normen"=>"Skript/normen.md",
         "Aufgaben"=>"Skript/Uebungen/uebungen.md",
