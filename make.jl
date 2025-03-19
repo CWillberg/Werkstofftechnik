@@ -67,8 +67,11 @@ makedocs(
             "Faserverbunde"=>"Formelsammlung/faserverbunde.md",
             "Bruchmechanik"=>"Formelsammlung/bruchmechanik.md"
         ],
+        "Aufgaben"=>Any["Übungen"=>"Skript/Uebungen/uebungen.md",
+            "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Aufgaben.md",
+                "Lösungen"=>"Skript/Spannung-Dehnungs-Diagramm/Loesungen.md"],
+            "Thermische Dehnungen"=>Any["Aufgaben"=>"Skript/Uebungen/Thermische_Dehnungen/Aufgaben.md", "Lösungen"=>"Skript/Uebungen/Thermische_Dehnungen/Loesungen.md"]],
         "Normen"=>"Skript/normen.md",
-        "Aufgaben"=>"Skript/Uebungen/uebungen.md",
         "Quellen"=>"lib/references.md",
     ]
 )

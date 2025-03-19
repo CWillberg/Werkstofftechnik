@@ -4,3 +4,4 @@ build/*.*
 build/Figures/*.*
 build/styles/*.*
 *.css
+.qodo
