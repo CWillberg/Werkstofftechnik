@@ -58,7 +58,7 @@ Auswählen und Begründen.
 
 Wieviel Masse hat Cu und Ni für den Massenanteil und den Atomanteil?
 
-## Lösung
+## Lösung 
 **Massenanteil**
 
 $m_{Ni}=0.75\cdot 1kg = 0.75 kg$
