@@ -68,7 +68,10 @@ makedocs(
             "Bruchmechanik"=>"Formelsammlung/bruchmechanik.md"
         ],
         "Aufgaben"=>Any["Übungen"=>"Skript/Uebungen/uebungen.md",
-            "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Aufgaben.md",
+            "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Grundlagen/Aufgaben.md",
+                "Lösungen"=>"Skript/Uebungen/Grundlagen/Loesungen.md"],
+            "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Kristallstruktur/Aufgaben.md",
+                "Lösungen"=>"Skript/Uebungen/Kristallstruktur/Loesungen.md"], "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Aufgaben.md",
                 "Lösungen"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Loesungen.md"],
             "Thermische Dehnungen"=>Any["Aufgaben"=>"Skript/Uebungen/Thermische_Dehnungen/Aufgaben.md", "Lösungen"=>"Skript/Uebungen/Thermische_Dehnungen/Loesungen.md"]],
         "Normen"=>"Skript/normen.md",
