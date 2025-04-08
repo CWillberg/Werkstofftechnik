@@ -2,15 +2,13 @@
 ## Aufgabe 1 Vektor - Vektor Multiplikation
 
 
-$\mathbf{a} = \begin{bmatrix} 4 \\ 2 \\ 0 \end{bmatrix}$, 
-$\mathbf{b} = \begin{bmatrix} 1 \\ 5 \\ -3 \end{bmatrix}$
+$\mathbf{a} = \begin{bmatrix} 4 \\ 2 \\ 0 \end{bmatrix}$, $\mathbf{b} = \begin{bmatrix} 1 \\ 5 \\ -3 \end{bmatrix}$
 
 $\mathbf{b}^T = \begin{bmatrix} 1 &  5 &  -3 \end{bmatrix}$
 
 
 ## Aufgabe 2 Winkel zwischen 2 Vektoren
-$\mathbf{a} = \begin{bmatrix} 4 \\ 2 \\ 0 \end{bmatrix}$, 
-$\mathbf{b} = \begin{bmatrix} 1 \\ 5 \\ -3 \end{bmatrix}$
+$\mathbf{a} = \begin{bmatrix} 4 \\ 2 \\ 0 \end{bmatrix}$, $\mathbf{b} = \begin{bmatrix} 1 \\ 5 \\ -3 \end{bmatrix}$
 
 
 ## Aufgabe 3 Vektor Matrix Multiplikation
