@@ -14,6 +14,8 @@ im Seminar
 ## Aufgabe 5
 im Seminar
 
+## Aufgabe 6
+
 
 
 
