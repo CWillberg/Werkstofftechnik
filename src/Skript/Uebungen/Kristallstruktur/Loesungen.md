@@ -1,6 +1,6 @@
 # Lösung
 ## Aufgabe 1
-im Seminar#
+im Seminar
 
 ## Aufgabe 2
 $$\mathbf{b}=\frac{a_0}{n}\langle uvw\rangle$$

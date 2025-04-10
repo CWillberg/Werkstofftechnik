@@ -9,6 +9,5 @@ Berechne die Packungsdichte von
 ## Aufgabe 2
 Bestimme den wahrscheinlichsten Burgersvektor in einem krz.
 
-
 ## Aufgabe 3
 Bestimme die Versetzungsenergie.
