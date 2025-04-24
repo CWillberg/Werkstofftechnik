@@ -1,14 +1,16 @@
 ##  Spannungs-Dehnungs-Diagramm
+
 ## Aufgabe 1 Bestimme die Normalspannung
-$R=20mm$, $F=10N$, $E=10000 N/mm^2$ $l=100mm$
+Zugprobe mit Kreisquerschnitt.
+$$R=20mm, F=10N, E=10000 N/mm^2, l=100mm$$
 
 ## Aufgabe 2 - Bestimme die zugehörige Dehnung
-
+Hinweis: Es wird der elastische Bereich betrachtet.
 
 ## Aufgabe 3 Bestimme die Verschiebung
 
 ## Aufgabe 4 Bestimme die Vergleichspannungen für dieses Beispiel
-
+- die von Mises Spannungen
 
 ## Aufgabe 5 Bestimme die Vergleichspannungen
 $\sigma_x=100N/mm^2\, \tau=50 N/mm^2$
