@@ -72,6 +72,8 @@ makedocs(
                 "Lösungen"=>"Skript/Uebungen/Grundlagen/Loesungen.md"],
             "Kristallstruktur"=>Any["Aufgaben"=>"Skript/Uebungen/Kristallstruktur/Aufgaben.md",
                 "Lösungen"=>"Skript/Uebungen/Kristallstruktur/Loesungen.md"],
+            "Normen"=>Any["Aufgaben"=>"Skript/Uebungen/Normen/Aufgaben.md",
+                "Lösungen"=>"Skript/Uebungen/Normen/Loesungen.md"],
             "Spannungen und Dehungen"=>Any["Aufgaben"=>"Skript/Uebungen/Spannung-Dehnungen/Aufgaben.md",
                 "Lösungen"=>"Skript/Uebungen/Spannung-Dehnungen/Loesungen.md"], "Spannungs-Dehnungs-Diagramm"=>Any["Aufgaben"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Aufgaben.md",
                 "Lösungen"=>"Skript/Uebungen/Spannung-Dehnungs-Diagramm/Loesungen.md"],

@@ -1,0 +1,8 @@
+##  Stahlnorm
+
+## Aufgabe 1 Nimm zwei Beispiele (chem. Zusammensetzung)
+C4D, 50Mn7, 75Ni8, 52CrMoV4, X20Cr13, X8Cr13, 11SMn30, 38NiCrMoV7-3, C120U, C35E, C8E2W, GC25E, 14ECiMo4, 10MnMoCeV4-1, 15SPb22, G12CrMo9-10
+
+## Aufgabe 2  Nimm zwei Beispiele (mech. phys. Eigenschaften)
+S235J0, S185, DC02, E295, S355K2, P295GH, P265NB, GP240GH, L260QBm L415MB, E295GC, B500A, B500B, Y1770C, Y1770S7, R220Mn, R320Cr, HC180B, HX260LAD, DC04EK, DX56+AS, M400-50A, M450-65K
+
